@@ -1,6 +1,6 @@
 {
-  "diperbarui": "2026-10-31T18:52:00+07:00",
-  "catatan": "Semua video hari ini sudah tayang; 1-2 Nov video siap tapi belum dijadwalkan di Metricool, folder laptop belum terhubung.",
+  "diperbarui": "2026-10-31T19:20:00+07:00",
+  "catatan": "Semua 6 video hari ini sudah tayang; 8 video 1-2 Nov siap tapi belum dijadwalkan di Metricool karena folder laptop belum terhubung.",
   "jadwal": [
     {
       "tanggal": "2026-10-31",
@@ -76,7 +76,7 @@
     },
     {
       "tanggal": "2026-11-01",
-      "jam": "08:00",
+      "jam": "10:00",
       "platform": [
         "youtube"
       ],
@@ -87,7 +87,7 @@
     },
     {
       "tanggal": "2026-11-01",
-      "jam": "08:00",
+      "jam": "10:00",
       "platform": [
         "tiktok",
         "instagram",
@@ -100,18 +100,7 @@
     },
     {
       "tanggal": "2026-11-01",
-      "jam": "10:00",
-      "platform": [
-        "youtube"
-      ],
-      "judul": "Matahari Bisa Muat 1 Juta Bumi?! ☀️",
-      "format": "DuckFact",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-01",
-      "jam": "10:00",
+      "jam": "12:00",
       "platform": [
         "tiktok",
         "instagram",
@@ -123,8 +112,19 @@
       "link": ""
     },
     {
+      "tanggal": "2026-11-01",
+      "jam": "13:00",
+      "platform": [
+        "youtube"
+      ],
+      "judul": "Matahari Bisa Muat 1 Juta Bumi?! ☀️",
+      "format": "DuckFact",
+      "status": "video siap",
+      "link": ""
+    },
+    {
       "tanggal": "2026-11-02",
-      "jam": "08:00",
+      "jam": "10:00",
       "platform": [
         "youtube"
       ],
@@ -135,7 +135,7 @@
     },
     {
       "tanggal": "2026-11-02",
-      "jam": "08:00",
+      "jam": "10:00",
       "platform": [
         "tiktok",
         "instagram",
@@ -148,18 +148,7 @@
     },
     {
       "tanggal": "2026-11-02",
-      "jam": "10:00",
-      "platform": [
-        "youtube"
-      ],
-      "judul": "Flamingo Lahirnya Nggak Pink?! 🦩",
-      "format": "DuckFact",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-02",
-      "jam": "10:00",
+      "jam": "12:00",
       "platform": [
         "tiktok",
         "instagram",
@@ -167,6 +156,17 @@
       ],
       "judul": "Website lo lemot gara-gara gambar?",
       "format": "TechTip",
+      "status": "video siap",
+      "link": ""
+    },
+    {
+      "tanggal": "2026-11-02",
+      "jam": "13:00",
+      "platform": [
+        "youtube"
+      ],
+      "judul": "Flamingo Lahirnya Nggak Pink?! 🦩",
+      "format": "DuckFact",
       "status": "video siap",
       "link": ""
     }
@@ -422,7 +422,7 @@
     },
     "laporan": {
       "catatan": "Update data web; tak ada perintah, angka belum berubah",
-      "waktu": "2026-10-31T18:52:00+07:00"
+      "waktu": "2026-10-31T19:20:00+07:00"
     }
   }
 }
