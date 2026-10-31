@@ -1,6 +1,6 @@
 {
-  "diperbarui": "2026-10-31T08:20:00+07:00",
-  "catatan": "Video gurita tembus 1.000+ views di YouTube, format fakta hewan aneh diperbanyak.",
+  "diperbarui": "2026-10-31T08:24:00+07:00",
+  "catatan": "Gurita 1.140 views (live dari YouTube), 1,9x rata-rata channel.",
   "jadwal": [
     {
       "tanggal": "2026-10-31",
@@ -205,8 +205,8 @@
       "platform": "youtube",
       "judul": "Leher Jerapah Cuma 7 Tulang?! 🦒",
       "format": "DuckFact",
-      "views": null,
-      "likes": null,
+      "views": 0,
+      "likes": 0,
       "link": "https://www.youtube.com/shorts/Wgj8r_CiRPs"
     },
     {
@@ -235,8 +235,8 @@
       "platform": "youtube",
       "judul": "Gurita Punya 3 Jantung dan Darah Biru?! 🐙",
       "format": "DuckFact",
-      "views": 1000,
-      "likes": null,
+      "views": 1140,
+      "likes": 14,
       "link": "https://www.youtube.com/shorts/O_gBJ3DnenI"
     },
     {
