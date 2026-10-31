@@ -1,6 +1,6 @@
 {
-  "diperbarui": "2026-10-31T14:18:00+07:00",
-  "catatan": "Semua video hari ini sudah tayang, besok 4 slot video siap; gurita masih juara 1.140 views.",
+  "diperbarui": "2026-10-31T15:20:00+07:00",
+  "catatan": "Semua video hari ini sudah tayang, besok 4 slot video siap (belum dijadwalkan); gurita masih juara 1.140 views.",
   "jadwal": [
     {
       "tanggal": "2026-10-31",
@@ -421,8 +421,8 @@
       "waktu": "2026-10-31T07:16:00+07:00"
     },
     "laporan": {
-      "catatan": "Update data web; tak ada perintah baru",
-      "waktu": "2026-10-31T14:18:00+07:00"
+      "catatan": "Update data web; tak ada perintah, laptop offline",
+      "waktu": "2026-10-31T15:20:00+07:00"
     }
   }
 }
