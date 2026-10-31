@@ -1,6 +1,6 @@
 {
-  "diperbarui": "2026-10-31T08:12:00+07:00",
-  "catatan": "Hari ini 3 video per platform: 1 susulan semalam (07:20) + 2 jadwal biasa (08:00 & 10:00).",
+  "diperbarui": "2026-10-31T08:20:00+07:00",
+  "catatan": "Video gurita tembus 1.000+ views di YouTube, format fakta hewan aneh diperbanyak.",
   "jadwal": [
     {
       "tanggal": "2026-10-31",
@@ -235,7 +235,7 @@
       "platform": "youtube",
       "judul": "Gurita Punya 3 Jantung dan Darah Biru?! 🐙",
       "format": "DuckFact",
-      "views": null,
+      "views": 1000,
       "likes": null,
       "link": "https://www.youtube.com/shorts/O_gBJ3DnenI"
     },
@@ -273,8 +273,8 @@
   "perintah_selesai": [],
   "tim": {
     "riset": {
-      "catatan": "Nemu ide format baru: timelapse bangun rumah",
-      "waktu": "2026-10-30T10:00:00+07:00"
+      "catatan": "Gurita 1.000+ views: fakta hewan aneh diperbanyak",
+      "waktu": "2026-10-31T08:20:00+07:00"
     },
     "penulis": {
       "catatan": "Nulis 8 naskah slot jam 10 (30 Okt – 2 Nov)",
