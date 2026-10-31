@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-10-31T07:50:00+07:00",
+  "diperbarui": "2026-10-31T08:12:00+07:00",
   "catatan": "Hari ini 3 video per platform: 1 susulan semalam (07:20) + 2 jadwal biasa (08:00 & 10:00).",
   "jadwal": [
     {
@@ -270,5 +270,35 @@
       "link": "https://www.tiktok.com/@sueng135/video/7700078192387738900"
     }
   ],
-  "perintah_selesai": []
+  "perintah_selesai": [],
+  "tim": {
+    "riset": {
+      "catatan": "Nemu ide format baru: timelapse bangun rumah",
+      "waktu": "2026-10-30T10:00:00+07:00"
+    },
+    "penulis": {
+      "catatan": "Nulis 8 naskah slot jam 10 (30 Okt – 2 Nov)",
+      "waktu": "2026-10-30T20:50:00+07:00"
+    },
+    "penilaiNaskah": {
+      "catatan": "Cek fakta jerapah, Matahari, flamingo: lolos",
+      "waktu": "2026-10-30T20:50:00+07:00"
+    },
+    "render": {
+      "catatan": "Render 14 video, berhenti 22:41 (laptop sleep)",
+      "waktu": "2026-10-30T22:41:00+07:00"
+    },
+    "penilaiVideo": {
+      "catatan": "Video 30–31 Okt layak tayang",
+      "waktu": "2026-10-31T07:07:00+07:00"
+    },
+    "posting": {
+      "catatan": "Jadwalin 7 video: 07:20, 08:00, 10:00",
+      "waktu": "2026-10-31T07:16:00+07:00"
+    },
+    "laporan": {
+      "catatan": "Bikin website Studio Tayang ini",
+      "waktu": "2026-10-31T08:10:00+07:00"
+    }
+  }
 }
