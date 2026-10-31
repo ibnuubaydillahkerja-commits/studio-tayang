@@ -1,7 +1,31 @@
 {
-  "diperbarui": "2026-10-31T08:24:00+07:00",
-  "catatan": "Gurita 1.140 views (live dari YouTube), 1,9x rata-rata channel.",
+  "diperbarui": "2026-10-31T09:20:00+07:00",
+  "catatan": "Madu & 3 trik CSS tayang 08:00, 2 video lagi jam 10:00; gurita masih juara (1.140 views).",
   "jadwal": [
+    {
+      "tanggal": "2026-10-31",
+      "jam": "07:20",
+      "platform": [
+        "youtube"
+      ],
+      "judul": "Leher Jerapah Cuma 7 Tulang?! 🦒",
+      "format": "DuckFact",
+      "status": "terjadwal",
+      "link": "https://www.youtube.com/shorts/Wgj8r_CiRPs"
+    },
+    {
+      "tanggal": "2026-10-31",
+      "jam": "07:20",
+      "platform": [
+        "tiktok",
+        "instagram",
+        "facebook"
+      ],
+      "judul": "Teks website kegedean di HP? Pakai clamp()",
+      "format": "TechTip",
+      "status": "terjadwal",
+      "link": "https://www.tiktok.com/@sueng135/video/7702620630415346951"
+    },
     {
       "tanggal": "2026-10-31",
       "jam": "08:00",
@@ -11,7 +35,7 @@
       "judul": "Makanan yang Nggak Pernah Basi 🍯",
       "format": "DuckFact",
       "status": "terjadwal",
-      "link": ""
+      "link": "https://www.youtube.com/shorts/WipuNpGG5ew"
     },
     {
       "tanggal": "2026-10-31",
@@ -24,7 +48,7 @@
       "judul": "3 trik biar website lo nggak ngebosenin",
       "format": "TechTip",
       "status": "terjadwal",
-      "link": ""
+      "link": "https://www.tiktok.com/@sueng135/video/7702631491766865173"
     },
     {
       "tanggal": "2026-10-31",
@@ -201,6 +225,46 @@
   "performa": [
     {
       "tanggal": "2026-10-31",
+      "jam": "08:00",
+      "platform": "youtube",
+      "judul": "Makanan yang Nggak Pernah Basi 🍯",
+      "format": "DuckFact",
+      "views": null,
+      "likes": null,
+      "link": "https://www.youtube.com/shorts/WipuNpGG5ew"
+    },
+    {
+      "tanggal": "2026-10-31",
+      "jam": "08:00",
+      "platform": "tiktok",
+      "judul": "3 trik biar website lo nggak ngebosenin",
+      "format": "TechTip",
+      "views": null,
+      "likes": null,
+      "link": "https://www.tiktok.com/@sueng135/video/7702631491766865173"
+    },
+    {
+      "tanggal": "2026-10-31",
+      "jam": "08:00",
+      "platform": "instagram",
+      "judul": "3 trik biar website lo nggak ngebosenin",
+      "format": "TechTip",
+      "views": null,
+      "likes": null,
+      "link": "https://www.instagram.com/reel/DfI7sDSChcT/"
+    },
+    {
+      "tanggal": "2026-10-31",
+      "jam": "08:00",
+      "platform": "facebook",
+      "judul": "3 trik biar website lo nggak ngebosenin",
+      "format": "TechTip",
+      "views": null,
+      "likes": null,
+      "link": "https://facebook.com/reel/4622837517984455"
+    },
+    {
+      "tanggal": "2026-10-31",
       "jam": "07:20",
       "platform": "youtube",
       "judul": "Leher Jerapah Cuma 7 Tulang?! 🦒",
@@ -228,6 +292,16 @@
       "views": null,
       "likes": null,
       "link": "https://www.instagram.com/reel/DfI24APm63n/"
+    },
+    {
+      "tanggal": "2026-10-31",
+      "jam": "07:20",
+      "platform": "facebook",
+      "judul": "Teks website kegedean di HP? Pakai clamp()",
+      "format": "TechTip",
+      "views": null,
+      "likes": null,
+      "link": "https://facebook.com/reel/3615548851928938"
     },
     {
       "tanggal": "2026-10-30",
@@ -258,6 +332,16 @@
       "views": 290,
       "likes": 7,
       "link": "https://www.instagram.com/reel/DfGW5cCkjda/"
+    },
+    {
+      "tanggal": "2026-10-30",
+      "jam": "08:00",
+      "platform": "facebook",
+      "judul": "Catat Uang AI: catat pengeluaran lewat WhatsApp",
+      "format": "WebShowcase",
+      "views": null,
+      "likes": null,
+      "link": "https://facebook.com/reel/1768185717747431"
     },
     {
       "tanggal": "2026-10-24",
@@ -297,8 +381,8 @@
       "waktu": "2026-10-31T07:16:00+07:00"
     },
     "laporan": {
-      "catatan": "Bikin website Studio Tayang ini",
-      "waktu": "2026-10-31T08:10:00+07:00"
+      "catatan": "Update data web; tak ada perintah, laptop belum nyambung",
+      "waktu": "2026-10-31T09:20:00+07:00"
     }
   }
 }
