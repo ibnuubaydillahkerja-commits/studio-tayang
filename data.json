@@ -1,6 +1,6 @@
 {
-  "diperbarui": "2026-10-31T09:20:00+07:00",
-  "catatan": "Madu & 3 trik CSS tayang 08:00, 2 video lagi jam 10:00; gurita masih juara (1.140 views).",
+  "diperbarui": "2026-10-31T10:20:00+07:00",
+  "catatan": "Semua 8 video hari ini sudah tayang (07:20, 08:00, 10:00); gurita masih juara 1.140 views, laptop belum nyambung.",
   "jadwal": [
     {
       "tanggal": "2026-10-31",
@@ -59,7 +59,7 @@
       "judul": "Bangun Rumah Atap Biru dari 0 dalam 1 Menit! 🏠",
       "format": "BuildHouse",
       "status": "terjadwal",
-      "link": ""
+      "link": "https://www.youtube.com/shorts/6GRYj6rqSFU"
     },
     {
       "tanggal": "2026-10-31",
@@ -72,7 +72,7 @@
       "judul": "3 baris CSS biar website naik kelas",
       "format": "TechTip",
       "status": "terjadwal",
-      "link": ""
+      "link": "https://www.tiktok.com/@sueng135/video/7702662072382868754"
     },
     {
       "tanggal": "2026-11-01",
@@ -223,6 +223,46 @@
     }
   ],
   "performa": [
+    {
+      "tanggal": "2026-10-31",
+      "jam": "10:00",
+      "platform": "youtube",
+      "judul": "Bangun Rumah Atap Biru dari 0 dalam 1 Menit! 🏠",
+      "format": "BuildHouse",
+      "views": null,
+      "likes": null,
+      "link": "https://www.youtube.com/shorts/6GRYj6rqSFU"
+    },
+    {
+      "tanggal": "2026-10-31",
+      "jam": "10:00",
+      "platform": "tiktok",
+      "judul": "3 baris CSS biar website naik kelas",
+      "format": "TechTip",
+      "views": null,
+      "likes": null,
+      "link": "https://www.tiktok.com/@sueng135/video/7702662072382868754"
+    },
+    {
+      "tanggal": "2026-10-31",
+      "jam": "10:00",
+      "platform": "instagram",
+      "judul": "3 baris CSS biar website naik kelas",
+      "format": "TechTip",
+      "views": null,
+      "likes": null,
+      "link": "https://www.instagram.com/reel/DfJJSf0DfJJ/"
+    },
+    {
+      "tanggal": "2026-10-31",
+      "jam": "10:00",
+      "platform": "facebook",
+      "judul": "3 baris CSS biar website naik kelas",
+      "format": "TechTip",
+      "views": null,
+      "likes": null,
+      "link": "https://facebook.com/reel/1588451286298979"
+    },
     {
       "tanggal": "2026-10-31",
       "jam": "08:00",
@@ -382,7 +422,7 @@
     },
     "laporan": {
       "catatan": "Update data web; tak ada perintah, laptop belum nyambung",
-      "waktu": "2026-10-31T09:20:00+07:00"
+      "waktu": "2026-10-31T10:20:00+07:00"
     }
   }
 }
