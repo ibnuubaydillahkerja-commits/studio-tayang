@@ -1,6 +1,6 @@
 {
-  "diperbarui": "2026-10-31T19:20:00+07:00",
-  "catatan": "Semua 6 video hari ini sudah tayang; 8 video 1-2 Nov siap tapi belum dijadwalkan di Metricool karena folder laptop belum terhubung.",
+  "diperbarui": "2026-10-31T22:10:00+07:00",
+  "catatan": "6 video hari ini sudah tayang; 8 video 1-2 Nov siap tapi belum masuk jadwal Metricool, folder laptop belum terhubung.",
   "jadwal": [
     {
       "tanggal": "2026-10-31",
@@ -421,8 +421,8 @@
       "waktu": "2026-10-31T07:16:00+07:00"
     },
     "laporan": {
-      "catatan": "Update data web; tak ada perintah, angka belum berubah",
-      "waktu": "2026-10-31T19:20:00+07:00"
+      "catatan": "Update data web 22:10; tak ada perintah, angka tetap",
+      "waktu": "2026-10-31T22:10:00+07:00"
     }
   }
 }
