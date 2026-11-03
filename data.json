@@ -1,42 +1,7 @@
 {
- "diperbarui": "2026-11-02T20:55:00+07:00",
- "catatan": "Hari ini 3 post tayang; besok baru 1 YT terjadwal (Hiu 10:00) karena laptop belum render sejak 31 Okt dan 3 naskah TikTok/IG perlu revisi.",
+ "diperbarui": "2026-11-03T11:20:00+07:00",
+ "catatan": "Hari ini cuma 1 post (YT Hiu 10:00, sudah tayang); 4-5 Nov belum ada yang terjadwal karena render laptop macet di 11-01-yt3 dan laptop belum terhubung.",
  "jadwal": [
-  {
-   "tanggal": "2026-11-02",
-   "jam": "10:00",
-   "platform": [
-    "youtube"
-   ],
-   "judul": "Pisang Itu Buah Beri, Stroberi Bukan! 🍌🍓",
-   "format": "DuckFact",
-   "status": "terjadwal",
-   "link": "https://www.youtube.com/shorts/k4OxgWOrPeI"
-  },
-  {
-   "tanggal": "2026-11-02",
-   "jam": "12:00",
-   "platform": [
-    "tiktok",
-    "instagram",
-    "facebook"
-   ],
-   "judul": "Website lo lemot gara-gara gambar?",
-   "format": "TechTip",
-   "status": "terjadwal",
-   "link": "https://www.tiktok.com/@sueng135/video/7703434166083407110"
-  },
-  {
-   "tanggal": "2026-11-02",
-   "jam": "13:00",
-   "platform": [
-    "youtube"
-   ],
-   "judul": "Flamingo Lahirnya Nggak Pink?! 🦩",
-   "format": "DuckFact",
-   "status": "terjadwal",
-   "link": "https://www.youtube.com/shorts/IqIEhjpW1c4"
-  },
   {
    "tanggal": "2026-11-03",
    "jam": "10:00",
@@ -46,7 +11,7 @@
    "judul": "Hiu Lebih Tua dari Pohon?! 🦈",
    "format": "DuckFact",
    "status": "terjadwal",
-   "link": ""
+   "link": "https://www.youtube.com/shorts/PbHFLxLpm1g"
   },
   {
    "tanggal": "2026-11-03",
@@ -84,23 +49,33 @@
    "format": "WebShowcase",
    "status": "gagal",
    "link": ""
+  },
+  {
+   "tanggal": "2026-11-05",
+   "jam": "10:00",
+   "platform": [
+    "youtube"
+   ],
+   "judul": "Jantung Udang Ada di Kepala?! 🦐",
+   "format": "DuckFact",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-05",
+   "jam": "10:00",
+   "platform": [
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "judul": "Judul website lo biasa aja? Bikin bergerak!",
+   "format": "TechTip",
+   "status": "video siap",
+   "link": ""
   }
  ],
  "ide": [
-  {
-   "tanggal": "2026-11-05",
-   "platform": "YouTube",
-   "judul": "Jantung Udang Ada di Kepala?! 🦐",
-   "format": "DuckFact",
-   "status": "naskah siap"
-  },
-  {
-   "tanggal": "2026-11-05",
-   "platform": "TikTok/IG/FB",
-   "judul": "Judul website lo biasa aja? Bikin bergerak!",
-   "format": "TechTip",
-   "status": "naskah siap"
-  },
   {
    "tanggal": "2026-11-06",
    "platform": "YouTube",
@@ -145,6 +120,16 @@
   }
  ],
  "performa": [
+  {
+   "tanggal": "2026-11-03",
+   "jam": "10:00",
+   "platform": "youtube",
+   "judul": "Hiu Lebih Tua dari Pohon?! 🦈",
+   "format": "DuckFact",
+   "views": null,
+   "likes": null,
+   "link": "https://www.youtube.com/shorts/PbHFLxLpm1g"
+  },
   {
    "tanggal": "2026-11-02",
    "jam": "13:00",
@@ -191,8 +176,8 @@
    "platform": "tiktok",
    "judul": "Website lo lemot gara-gara gambar?",
    "format": "TechTip",
-   "views": null,
-   "likes": null,
+   "views": 292,
+   "likes": 15,
    "link": "https://www.tiktok.com/@sueng135/video/7703434166083407110"
   },
   {
@@ -201,8 +186,8 @@
    "platform": "instagram",
    "judul": "Website lo lemot gara-gara gambar?",
    "format": "TechTip",
-   "views": null,
-   "likes": null,
+   "views": 1716,
+   "likes": 61,
    "link": "https://www.instagram.com/reel/DfOgoasCZDt/"
   },
   {
@@ -221,8 +206,8 @@
    "platform": "tiktok",
    "judul": "Format Rupiah otomatis tanpa library",
    "format": "TechTip",
-   "views": 225,
-   "likes": 13,
+   "views": 296,
+   "likes": 15,
    "link": "https://www.tiktok.com/@sueng135/video/7703172611655748870"
   },
   {
@@ -231,8 +216,8 @@
    "platform": "instagram",
    "judul": "Format Rupiah otomatis tanpa library",
    "format": "TechTip",
-   "views": 213,
-   "likes": 5,
+   "views": 609,
+   "likes": 18,
    "link": "https://www.instagram.com/reel/DfMsAeYl98f/"
   },
   {
@@ -251,7 +236,7 @@
    "platform": "tiktok",
    "judul": "2 CSS modern yang jarang orang pakai",
    "format": "TechTip",
-   "views": 233,
+   "views": 253,
    "likes": 10,
    "link": "https://www.tiktok.com/@sueng135/video/7703141779092147464"
   },
@@ -261,8 +246,8 @@
    "platform": "instagram",
    "judul": "2 CSS modern yang jarang orang pakai",
    "format": "TechTip",
-   "views": 259,
-   "likes": 9,
+   "views": 1336,
+   "likes": 45,
    "link": "https://www.instagram.com/reel/DfMeUCIiV8y/"
   },
   {
@@ -281,7 +266,7 @@
    "platform": "tiktok",
    "judul": "Bikin tombol copy cuma 1 baris JavaScript",
    "format": "TechTip",
-   "views": 235,
+   "views": 240,
    "likes": 12,
    "link": "https://www.tiktok.com/@sueng135/video/7703064385459064084"
   },
@@ -291,8 +276,8 @@
    "platform": "instagram",
    "judul": "Bikin tombol copy cuma 1 baris JavaScript",
    "format": "TechTip",
-   "views": 351,
-   "likes": 5,
+   "views": 407,
+   "likes": 6,
    "link": "https://www.instagram.com/reel/DfL79jCEUgD/"
   },
   {
@@ -321,8 +306,8 @@
    "platform": "tiktok",
    "judul": "3 baris CSS biar website naik kelas",
    "format": "TechTip",
-   "views": 357,
-   "likes": 31,
+   "views": 374,
+   "likes": 33,
    "link": "https://www.tiktok.com/@sueng135/video/7702662072382868754"
   },
   {
@@ -331,8 +316,8 @@
    "platform": "instagram",
    "judul": "3 baris CSS biar website naik kelas",
    "format": "TechTip",
-   "views": 2609,
-   "likes": 144,
+   "views": 2733,
+   "likes": 150,
    "link": "https://www.instagram.com/reel/DfJJSf0DfJJ/"
   },
   {
@@ -361,7 +346,7 @@
    "platform": "tiktok",
    "judul": "3 trik biar website lo nggak ngebosenin",
    "format": "TechTip",
-   "views": 397,
+   "views": 404,
    "likes": 23,
    "link": "https://www.tiktok.com/@sueng135/video/7702631491766865173"
   },
@@ -371,7 +356,7 @@
    "platform": "instagram",
    "judul": "3 trik biar website lo nggak ngebosenin",
    "format": "TechTip",
-   "views": 1973,
+   "views": 1993,
    "likes": 59,
    "link": "https://www.instagram.com/reel/DfI7sDSChcT/"
   },
@@ -401,7 +386,7 @@
    "platform": "tiktok",
    "judul": "Teks website kegedean di HP? Pakai clamp()",
    "format": "TechTip",
-   "views": 316,
+   "views": 320,
    "likes": 18,
    "link": "https://www.tiktok.com/@sueng135/video/7702620630415346951"
   },
@@ -411,7 +396,7 @@
    "platform": "instagram",
    "judul": "Teks website kegedean di HP? Pakai clamp()",
    "format": "TechTip",
-   "views": 1762,
+   "views": 1777,
    "likes": 51,
    "link": "https://www.instagram.com/reel/DfI24APm63n/"
   },
@@ -441,7 +426,7 @@
    "platform": "tiktok",
    "judul": "Catat Uang AI: catat pengeluaran lewat WhatsApp",
    "format": "WebShowcase",
-   "views": 257,
+   "views": 259,
    "likes": 10,
    "link": "https://www.tiktok.com/@sueng135/video/7702259910930681140"
   },
@@ -451,7 +436,7 @@
    "platform": "instagram",
    "judul": "Catat Uang AI: catat pengeluaran lewat WhatsApp",
    "format": "WebShowcase",
-   "views": 356,
+   "views": 357,
    "likes": 9,
    "link": "https://www.instagram.com/reel/DfGW5cCkjda/"
   },
@@ -491,20 +476,20 @@
    "waktu": "2026-10-30T20:50:00+07:00"
   },
   "render": {
-   "catatan": "Render 14 video, berhenti 22:41 (laptop sleep)",
-   "waktu": "2026-10-30T22:41:00+07:00"
+   "catatan": "Render 2 Nov crash di 11-01-yt3 (broll webm rusak)",
+   "waktu": "2026-11-02T21:00:00+07:00"
   },
   "penilaiVideo": {
-   "catatan": "02-ig, 03-ig, 04-ig ditolak: kode >48 char & klaim",
-   "waktu": "2026-11-02T06:25:00+07:00"
+   "catatan": "Nilai ulang 03-ig & 04-ig: rata2 5,5, tidak layak",
+   "waktu": "2026-11-03T06:20:00+07:00"
   },
   "posting": {
-   "catatan": "Tak ada post baru; 3 Nov baru 1 YT terjadwal",
-   "waktu": "2026-11-02T06:25:00+07:00"
+   "catatan": "3 Nov cuma YT Hiu; 03-ig & 04-ig tak lolos",
+   "waktu": "2026-11-03T06:20:00+07:00"
   },
   "laporan": {
-   "catatan": "Update web 20:55 + angka YT vidIQ; laptop tak terhubung",
-   "waktu": "2026-11-02T20:55:00+07:00"
+   "catatan": "Update web 11:20, 0 perintah; laptop tak terhubung",
+   "waktu": "2026-11-03T11:20:00+07:00"
   }
  }
 }
