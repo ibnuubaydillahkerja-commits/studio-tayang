@@ -1,7 +1,20 @@
 {
- "diperbarui": "2026-11-03T15:25:00+07:00",
- "catatan": "Hari ini cuma 1 post (YT Hiu 10:00, sudah tayang); 4-5 Nov belum ada yang terjadwal karena render laptop macet sejak 2 Nov dan folder content laptop belum diizinkan ke tim.",
+ "diperbarui": "2026-11-03T17:25:00+07:00",
+ "catatan": "Hari ini cuma YT Hiu 10:00 yang tayang; besok 4 Nov TikTok/IG/FB sudah terjadwal 2 video (10:00 & 12:00), sisa slot masih kosong karena folder laptop belum diizinkan ke tim.",
  "jadwal": [
+  {
+   "tanggal": "2026-11-03",
+   "jam": "10:00",
+   "platform": [
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "judul": "Gimana cara gua bikin catat uang lewat WhatsApp? (ditolak penilai, perlu revisi)",
+   "format": "TechTip",
+   "status": "gagal",
+   "link": ""
+  },
   {
    "tanggal": "2026-11-03",
    "jam": "10:00",
@@ -14,16 +27,16 @@
    "link": "https://www.youtube.com/shorts/PbHFLxLpm1g"
   },
   {
-   "tanggal": "2026-11-03",
+   "tanggal": "2026-11-04",
    "jam": "10:00",
    "platform": [
     "tiktok",
     "instagram",
     "facebook"
    ],
-   "judul": "Gimana cara gua bikin catat uang lewat WhatsApp? (ditolak penilai, perlu revisi)",
+   "judul": "Dark mode otomatis cuma 5 baris CSS",
    "format": "TechTip",
-   "status": "gagal",
+   "status": "terjadwal",
    "link": ""
   },
   {
@@ -39,26 +52,15 @@
   },
   {
    "tanggal": "2026-11-04",
-   "jam": "10:00",
+   "jam": "12:00",
    "platform": [
     "tiktok",
     "instagram",
     "facebook"
    ],
-   "judul": "Portofolio Gua (ditolak penilai, perlu revisi)",
+   "judul": "Cara gua bikin catat uang lewat WhatsApp",
    "format": "WebShowcase",
-   "status": "gagal",
-   "link": ""
-  },
-  {
-   "tanggal": "2026-11-05",
-   "jam": "10:00",
-   "platform": [
-    "youtube"
-   ],
-   "judul": "Jantung Udang Ada di Kepala?! 🦐",
-   "format": "DuckFact",
-   "status": "video siap",
+   "status": "terjadwal",
    "link": ""
   },
   {
@@ -73,6 +75,17 @@
    "format": "TechTip",
    "status": "video siap",
    "link": ""
+  },
+  {
+   "tanggal": "2026-11-05",
+   "jam": "10:00",
+   "platform": [
+    "youtube"
+   ],
+   "judul": "Jantung Udang Ada di Kepala?! 🦐",
+   "format": "DuckFact",
+   "status": "video siap",
+   "link": ""
   }
  ],
  "ide": [
@@ -82,6 +95,20 @@
    "judul": "Bangun Rumah dari 0 Sampai Jadi dalam 1 Menit! 🏠",
    "format": "BuildHouse",
    "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-06",
+   "platform": "TikTok/IG/FB",
+   "judul": "FAQ buka-tutup tanpa JavaScript: cukup <details> + <summary>",
+   "format": "TechTip",
+   "status": "ide"
+  },
+  {
+   "tanggal": "2026-11-06",
+   "platform": "TikTok/IG/FB",
+   "judul": "Popup/modal tanpa library: elemen <dialog> + showModal()",
+   "format": "TechTip",
+   "status": "ide"
   },
   {
    "tanggal": "2026-11-07",
@@ -98,6 +125,20 @@
    "status": "ide"
   },
   {
+   "tanggal": "2026-11-07",
+   "platform": "TikTok/IG/FB",
+   "judul": "Form ngasih tanda merah sendiri: required + :user-invalid",
+   "format": "TechTip",
+   "status": "ide"
+  },
+  {
+   "tanggal": "2026-11-07",
+   "platform": "TikTok/IG/FB",
+   "judul": "Isi form nggak hilang pas refresh: simpan di localStorage",
+   "format": "TechTip",
+   "status": "ide"
+  },
+  {
    "tanggal": "2026-11-08",
    "platform": "TikTok/IG/FB",
    "judul": "3 baris CSS lagi biar website naik kelas (lanjutan reel 2,6rb views)",
@@ -107,8 +148,8 @@
   {
    "tanggal": "2026-11-08",
    "platform": "TikTok/IG/FB",
-   "judul": "Dark mode otomatis (revisi: baris kode ≤48 karakter)",
-   "format": "TechTip",
+   "judul": "Foto struk langsung jadi catatan: fitur AI Catat Uang",
+   "format": "WebShowcase",
    "status": "ide"
   },
   {
@@ -461,11 +502,17 @@
    "link": "https://www.tiktok.com/@sueng135/video/7700078192387738900"
   }
  ],
- "perintah_selesai": [],
+ "perintah_selesai": [
+  {
+   "perintah": "Buat 5 ide konten teknologi baru (#1)",
+   "hasil": "5 ide TechTip/WebShowcase masuk daftar ide 6-8 Nov",
+   "tanggal": "2026-11-03"
+  }
+ ],
  "tim": {
   "riset": {
-   "catatan": "Gurita 1.000+ views: fakta hewan aneh diperbanyak",
-   "waktu": "2026-10-31T08:20:00+07:00"
+   "catatan": "5 ide tech baru: details, dialog, form, localStorage",
+   "waktu": "2026-11-03T17:25:00+07:00"
   },
   "penulis": {
    "catatan": "Nulis 8 naskah slot jam 10 (30 Okt – 2 Nov)",
@@ -484,12 +531,12 @@
    "waktu": "2026-11-03T06:20:00+07:00"
   },
   "posting": {
-   "catatan": "3 Nov cuma YT Hiu; 03-ig & 04-ig tak lolos",
-   "waktu": "2026-11-03T06:20:00+07:00"
+   "catatan": "Jadwal 4 Nov TT/IG/FB: dark mode 10:00, Catat Uang 12:00",
+   "waktu": "2026-11-03T16:10:00+07:00"
   },
   "laporan": {
-   "catatan": "Update web 15:25, 0 perintah; folder laptop belum diizinkan",
-   "waktu": "2026-11-03T15:25:00+07:00"
+   "catatan": "Update web 17:25, perintah #1 selesai; laptop belum diizinkan",
+   "waktu": "2026-11-03T17:25:00+07:00"
   }
  }
 }
