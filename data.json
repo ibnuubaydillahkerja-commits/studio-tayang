@@ -1,6 +1,6 @@
 {
-  "diperbarui": "2026-11-04T09:32:00+07:00",
-  "catatan": "4 Nov: 8 slot terjadwal mulai 10:00; 5-6 Nov masih kosong, folder laptop belum terhubung.",
+  "diperbarui": "2026-11-04T10:20:00+07:00",
+  "catatan": "4 Nov: 2 slot jam 10 sudah tayang (burung hantu & gradient CSS), 6 slot lagi terjadwal; 5-6 Nov masih kosong, laptop belum terhubung.",
   "jadwal": [
     {
       "tanggal": "2026-11-04",
@@ -11,7 +11,7 @@
       "judul": "Burung Hantu Bisa Muter Kepala 270°?! 🦉",
       "format": "RealFact",
       "status": "terjadwal",
-      "link": ""
+      "link": "https://www.youtube.com/shorts/rSUcvvS8QsM"
     },
     {
       "tanggal": "2026-11-04",
@@ -24,7 +24,7 @@
       "judul": "Teks gradient bergerak pakai CSS",
       "format": "TechTip",
       "status": "terjadwal",
-      "link": ""
+      "link": "https://www.instagram.com/reel/DfTcmIDjjnI/"
     },
     {
       "tanggal": "2026-11-04",
@@ -172,6 +172,46 @@
     }
   ],
   "performa": [
+    {
+      "tanggal": "2026-11-04",
+      "jam": "10:00",
+      "platform": "youtube",
+      "judul": "Burung Hantu Bisa Muter Kepala 270°?! 🦉",
+      "format": "RealFact",
+      "views": null,
+      "likes": null,
+      "link": "https://www.youtube.com/shorts/rSUcvvS8QsM"
+    },
+    {
+      "tanggal": "2026-11-04",
+      "jam": "10:00",
+      "platform": "tiktok",
+      "judul": "Teks gradient bergerak pakai CSS",
+      "format": "TechTip",
+      "views": null,
+      "likes": null,
+      "link": "https://www.tiktok.com/@sueng135/video/7704146726612897044"
+    },
+    {
+      "tanggal": "2026-11-04",
+      "jam": "10:00",
+      "platform": "instagram",
+      "judul": "Teks gradient bergerak pakai CSS",
+      "format": "TechTip",
+      "views": null,
+      "likes": null,
+      "link": "https://www.instagram.com/reel/DfTcmIDjjnI/"
+    },
+    {
+      "tanggal": "2026-11-04",
+      "jam": "10:00",
+      "platform": "facebook",
+      "judul": "Teks gradient bergerak pakai CSS",
+      "format": "TechTip",
+      "views": null,
+      "likes": null,
+      "link": "https://facebook.com/reel/1126277070099330"
+    },
     {
       "tanggal": "2026-11-03",
       "jam": "22:15",
@@ -576,8 +616,8 @@
       "waktu": "2026-11-04T06:25:00+07:00"
     },
     "laporan": {
-      "catatan": "Update web 09:32, no perintah; Metricool & angka tetap",
-      "waktu": "2026-11-04T09:32:00+07:00"
+      "catatan": "Update web 10:20, no perintah; 2 video jam 10 tayang",
+      "waktu": "2026-11-04T10:20:00+07:00"
     }
   }
 }
