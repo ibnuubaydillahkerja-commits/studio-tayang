@@ -1,6 +1,6 @@
 {
-  "diperbarui": "2026-11-04T08:25:00+07:00",
-  "catatan": "Hari ini (4 Nov) 8 slot terjadwal; 5-6 Nov masih kosong, nunggu video layak & izin folder laptop.",
+  "diperbarui": "2026-11-04T09:32:00+07:00",
+  "catatan": "4 Nov: 8 slot terjadwal mulai 10:00; 5-6 Nov masih kosong, folder laptop belum terhubung.",
   "jadwal": [
     {
       "tanggal": "2026-11-04",
@@ -576,8 +576,8 @@
       "waktu": "2026-11-04T06:25:00+07:00"
     },
     "laporan": {
-      "catatan": "Update web 08:25, no perintah; angka TT/IG belum berubah",
-      "waktu": "2026-11-04T08:25:00+07:00"
+      "catatan": "Update web 09:32, no perintah; Metricool & angka tetap",
+      "waktu": "2026-11-04T09:32:00+07:00"
     }
   }
 }
