@@ -1,6 +1,6 @@
 {
-  "diperbarui": "2026-11-04T21:20:00+07:00",
-  "catatan": "4 Nov: 8/8 slot tayang; 5-6 Nov masih kosong (folder laptop belum dihubungkan), tidak ada perintah baru.",
+  "diperbarui": "2026-11-04T22:20:00+07:00",
+  "catatan": "4 Nov: 8/8 slot tayang; 5-6 Nov masih kosong (folder naskah laptop belum terhubung), tidak ada perintah baru.",
   "jadwal": [
     {
       "tanggal": "2026-11-04",
@@ -736,8 +736,8 @@
       "waktu": "2026-11-04T06:25:00+07:00"
     },
     "laporan": {
-      "catatan": "Update web 21:20: 4 Nov 8/8 tayang, 5-6 Nov kosong",
-      "waktu": "2026-11-04T21:20:00+07:00"
+      "catatan": "Update web 22:20: 4 Nov 8/8 tayang, 5-6 Nov kosong",
+      "waktu": "2026-11-04T22:20:00+07:00"
     }
   }
 }
