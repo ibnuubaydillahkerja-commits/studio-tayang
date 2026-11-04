@@ -1,6 +1,6 @@
 {
-  "diperbarui": "2026-11-04T17:20:00+07:00",
-  "catatan": "4 Nov: 6 slot sudah tayang, 2 lagi terjadwal (18:00 & 19:00); 5-6 Nov masih kosong, folder laptop belum terhubung, tidak ada perintah baru.",
+  "diperbarui": "2026-11-04T19:20:00+07:00",
+  "catatan": "4 Nov: 8 slot sudah tayang semua; 5-6 Nov masih kosong (folder laptop belum terhubung), tidak ada perintah baru.",
   "jadwal": [
     {
       "tanggal": "2026-11-04",
@@ -83,7 +83,7 @@
       "judul": "Jantung Udang Ada di Kepala?! 🦐",
       "format": "DuckFact",
       "status": "terjadwal",
-      "link": ""
+      "link": "https://www.youtube.com/shorts/bAY-UNtDpnk"
     },
     {
       "tanggal": "2026-11-04",
@@ -96,7 +96,7 @@
       "judul": "Video nggak gepeng pakai aspect-ratio",
       "format": "TechTip",
       "status": "terjadwal",
-      "link": ""
+      "link": "https://www.instagram.com/reel/DfUaekfgVkP/"
     }
   ],
   "ide": [
@@ -172,6 +172,46 @@
     }
   ],
   "performa": [
+    {
+      "tanggal": "2026-11-04",
+      "jam": "19:00",
+      "platform": "tiktok",
+      "judul": "Video nggak gepeng pakai aspect-ratio",
+      "format": "TechTip",
+      "views": null,
+      "likes": null,
+      "link": "https://www.tiktok.com/@sueng135/video/7704286067846909191"
+    },
+    {
+      "tanggal": "2026-11-04",
+      "jam": "19:00",
+      "platform": "instagram",
+      "judul": "Video nggak gepeng pakai aspect-ratio",
+      "format": "TechTip",
+      "views": null,
+      "likes": null,
+      "link": "https://www.instagram.com/reel/DfUaekfgVkP/"
+    },
+    {
+      "tanggal": "2026-11-04",
+      "jam": "19:00",
+      "platform": "facebook",
+      "judul": "Video nggak gepeng pakai aspect-ratio",
+      "format": "TechTip",
+      "views": null,
+      "likes": null,
+      "link": "https://facebook.com/reel/1658582885846194"
+    },
+    {
+      "tanggal": "2026-11-04",
+      "jam": "18:00",
+      "platform": "youtube",
+      "judul": "Jantung Udang Ada di Kepala?! 🦐",
+      "format": "DuckFact",
+      "views": null,
+      "likes": null,
+      "link": "https://www.youtube.com/shorts/bAY-UNtDpnk"
+    },
     {
       "tanggal": "2026-11-04",
       "jam": "17:00",
@@ -696,8 +736,8 @@
       "waktu": "2026-11-04T06:25:00+07:00"
     },
     "laporan": {
-      "catatan": "Update web 17:20, no perintah; 5-6 Nov masih kosong",
-      "waktu": "2026-11-04T17:20:00+07:00"
+      "catatan": "Update web 19:20: 4 Nov 8/8 tayang, 5-6 Nov kosong",
+      "waktu": "2026-11-04T19:20:00+07:00"
     }
   }
 }
