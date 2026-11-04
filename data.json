@@ -1,6 +1,6 @@
 {
-  "diperbarui": "2026-11-04T15:20:00+07:00",
-  "catatan": "4 Nov: 4 slot sudah tayang, 4 lagi terjadwal (16:00-19:00); 5-6 Nov masih kosong, folder laptop belum terhubung, tidak ada perintah baru.",
+  "diperbarui": "2026-11-04T16:20:00+07:00",
+  "catatan": "4 Nov: 5 slot sudah tayang, 3 lagi terjadwal (17:00-19:00); 5-6 Nov masih kosong, laptop belum terhubung, tidak ada perintah baru.",
   "jadwal": [
     {
       "tanggal": "2026-11-04",
@@ -59,7 +59,7 @@
       "judul": "Gajah Nggak Bisa Lompat?! 🐘",
       "format": "RealFact",
       "status": "terjadwal",
-      "link": ""
+      "link": "https://www.youtube.com/shorts/pdhzMLRsm1k"
     },
     {
       "tanggal": "2026-11-04",
@@ -172,6 +172,16 @@
     }
   ],
   "performa": [
+    {
+      "tanggal": "2026-11-04",
+      "jam": "16:00",
+      "platform": "youtube",
+      "judul": "Gajah Nggak Bisa Lompat?! 🐘",
+      "format": "RealFact",
+      "views": null,
+      "likes": null,
+      "link": "https://www.youtube.com/shorts/pdhzMLRsm1k"
+    },
     {
       "tanggal": "2026-11-04",
       "jam": "13:00",
@@ -656,8 +666,8 @@
       "waktu": "2026-11-04T06:25:00+07:00"
     },
     "laporan": {
-      "catatan": "Update web 15:20, no perintah; 5-6 Nov masih kosong",
-      "waktu": "2026-11-04T15:20:00+07:00"
+      "catatan": "Update web 16:20, no perintah; 5-6 Nov masih kosong",
+      "waktu": "2026-11-04T16:20:00+07:00"
     }
   }
 }
