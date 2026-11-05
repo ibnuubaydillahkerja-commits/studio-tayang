@@ -1,18 +1,7 @@
 {
-  "diperbarui": "2026-11-05T12:20:00+07:00",
-  "catatan": "5 Nov: reel 12:00 sudah tayang, Shorts lumba-lumba 13:00 + 2 reel (17:00, 19:00) terjadwal; slot YT 10/16/18 & 6-7 Nov masih kosong, laptop belum sambung folder, tidak ada perintah baru.",
+  "diperbarui": "2026-11-05T14:20:00+07:00",
+  "catatan": "5 Nov: Shorts lumba-lumba 13:00 & reel 12:00 sudah tayang, 2 reel (17:00, 19:00) terjadwal; slot YT 10/16/18 & 6-7 Nov masih kosong, laptop belum sambung folder, tidak ada perintah baru.",
   "jadwal": [
-    {
-      "tanggal": "2026-11-05",
-      "jam": "13:00",
-      "platform": [
-        "youtube"
-      ],
-      "judul": "Lumba-lumba Tidur Setengah Otak?! 🐬",
-      "format": "RealFact",
-      "status": "terjadwal",
-      "link": ""
-    },
     {
       "tanggal": "2026-11-05",
       "jam": "17:00",
@@ -127,6 +116,16 @@
     }
   ],
   "performa": [
+    {
+      "tanggal": "2026-11-05",
+      "jam": "13:00",
+      "platform": "youtube",
+      "judul": "Lumba-lumba Tidur Setengah Otak?! 🐬",
+      "format": "RealFact",
+      "views": null,
+      "likes": null,
+      "link": "https://www.youtube.com/shorts/R3UA_OtHM2k"
+    },
     {
       "tanggal": "2026-11-05",
       "jam": "12:00",
@@ -711,8 +710,8 @@
       "waktu": "2026-11-05T11:31:00+07:00"
     },
     "laporan": {
-      "catatan": "Update web 12:20: 3 post 5 Nov terjadwal, reel 12:00 tayang",
-      "waktu": "2026-11-05T12:20:00+07:00"
+      "catatan": "Update web 14:20: lumba-lumba tayang, 2 reel terjadwal",
+      "waktu": "2026-11-05T14:20:00+07:00"
     }
   }
 }
