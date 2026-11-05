@@ -1,7 +1,47 @@
 {
-  "diperbarui": "2026-11-05T10:58:00+07:00",
-  "catatan": "5 Nov: 0 dari 8 slot terjadwal (belum ada video baru, laptop tidak terhubung); 5-7 Nov kosong, tidak ada perintah baru.",
-  "jadwal": [],
+  "diperbarui": "2026-11-05T11:20:00+07:00",
+  "catatan": "5 Nov: 3 reel TikTok/IG/FB terjadwal (12:00, 17:00, 19:00), slot YouTube 5-7 Nov masih kosong; folder laptop belum tersambung, tidak ada perintah baru.",
+  "jadwal": [
+    {
+      "tanggal": "2026-11-05",
+      "jam": "12:00",
+      "platform": [
+        "tiktok",
+        "instagram",
+        "facebook"
+      ],
+      "judul": "Keyboard HP yang pas buat form",
+      "format": "TechTip",
+      "status": "terjadwal",
+      "link": ""
+    },
+    {
+      "tanggal": "2026-11-05",
+      "jam": "17:00",
+      "platform": [
+        "tiktok",
+        "instagram",
+        "facebook"
+      ],
+      "judul": "Cegah pesanan dobel di form",
+      "format": "TechTip",
+      "status": "terjadwal",
+      "link": ""
+    },
+    {
+      "tanggal": "2026-11-05",
+      "jam": "19:00",
+      "platform": [
+        "tiktok",
+        "instagram",
+        "facebook"
+      ],
+      "judul": "Gambar website lebih ringan pakai AVIF",
+      "format": "TechTip",
+      "status": "terjadwal",
+      "link": ""
+    }
+  ],
   "ide": [
     {
       "tanggal": "2026-11-06",
@@ -77,13 +117,6 @@
       "tanggal": "2026-11-08",
       "platform": "TikTok/IG/FB",
       "judul": "Website lo bikin pengunjung kabur? 3 baris CSS lagi (lanjutan reel 2,7rb views)",
-      "format": "TechTip",
-      "status": "ide"
-    },
-    {
-      "tanggal": "2026-11-09",
-      "platform": "TikTok/IG/FB",
-      "judul": "Gambar bikin website lemot? Format WebP + srcset (lanjutan lazy load 1,8rb)",
       "format": "TechTip",
       "status": "ide"
     },
@@ -646,12 +679,12 @@
       "waktu": "2026-11-05T06:20:00+07:00"
     },
     "posting": {
-      "catatan": "5-8 Nov: 0 post dijadwalkan, belum ada video layak",
-      "waktu": "2026-11-05T06:20:00+07:00"
+      "catatan": "5 Nov: 3 reel TT/IG/FB dijadwalkan 12:00, 17:00, 19:00",
+      "waktu": "2026-11-05T11:08:00+07:00"
     },
     "laporan": {
-      "catatan": "Update web 10:58: 5-7 Nov kosong, IG reel naik terus",
-      "waktu": "2026-11-05T10:58:00+07:00"
+      "catatan": "Update web 11:20: 3 reel 5 Nov terjadwal, YT 5-7 Nov kosong",
+      "waktu": "2026-11-05T11:20:00+07:00"
     }
   }
 }
