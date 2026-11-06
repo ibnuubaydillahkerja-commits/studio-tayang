@@ -1,1065 +1,1065 @@
 {
-  "diperbarui": "2026-11-06T12:25:00+07:00",
-  "catatan": "6 Nov siang: 0 post terjadwal 6-8 Nov (naskah ada, video belum dirender) dan post 5 Nov 19:00 gagal karena limit akun Metricool; tidak ada perintah baru.",
-  "jadwal": [
-    {
-      "tanggal": "2026-11-06",
-      "jam": "10:00",
-      "platform": [
-        "tiktok",
-        "instagram",
-        "facebook"
-      ],
-      "judul": "Grid kartu lo berantakan di HP?",
-      "format": "TechTip",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-06",
-      "jam": "10:00",
-      "platform": [
-        "youtube"
-      ],
-      "judul": "Bangun Rumah dari 0 Sampai Jadi dalam 1 Menit! 🏠 (tidak layak, perlu naskah baru)",
-      "format": "BuildHouse",
-      "status": "gagal",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-06",
-      "jam": "12:00",
-      "platform": [
-        "tiktok",
-        "instagram",
-        "facebook"
-      ],
-      "judul": "Bikin FAQ buka-tutup masih pakai JavaScript?",
-      "format": "TechTip",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-06",
-      "jam": "13:00",
-      "platform": [
-        "youtube"
-      ],
-      "judul": "Sidik Jari Koala Mirip Manusia?! 🐨",
-      "format": "RealFact",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-06",
-      "jam": "16:00",
-      "platform": [
-        "youtube"
-      ],
-      "judul": "Saturnus Bisa Ngapung di Air?! 🪐",
-      "format": "RealFact",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-06",
-      "jam": "17:00",
-      "platform": [
-        "tiktok",
-        "instagram",
-        "facebook"
-      ],
-      "judul": "Popup website lo nggak bisa ditutup pakai Esc?",
-      "format": "TechTip",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-06",
-      "jam": "18:00",
-      "platform": [
-        "youtube"
-      ],
-      "judul": "Bayi Punya Tulang Lebih Banyak?! 👶",
-      "format": "RealFact",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-06",
-      "jam": "19:00",
-      "platform": [
-        "tiktok",
-        "instagram",
-        "facebook"
-      ],
-      "judul": "Catat Uang AI: foto struk langsung tercatat",
-      "format": "WebShowcase",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-07",
-      "jam": "10:00",
-      "platform": [
-        "tiktok",
-        "instagram",
-        "facebook"
-      ],
-      "judul": "Bikin slider geser masih install library?",
-      "format": "TechTip",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-07",
-      "jam": "10:00",
-      "platform": [
-        "youtube"
-      ],
-      "judul": "Berang-berang Tidur Pegangan Tangan?! 🦦",
-      "format": "RealFact",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-07",
-      "jam": "12:00",
-      "platform": [
-        "tiktok",
-        "instagram",
-        "facebook"
-      ],
-      "judul": "Card website lo kelihatan datar dan murahan?",
-      "format": "TechTip",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-07",
-      "jam": "13:00",
-      "platform": [
-        "youtube"
-      ],
-      "judul": "Semut Napas Tanpa Paru-paru?! 🐜",
-      "format": "RealFact",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-07",
-      "jam": "16:00",
-      "platform": [
-        "youtube"
-      ],
-      "judul": "Jupiter Muat 1.000 Bumi Lebih?! 🪐",
-      "format": "RealFact",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-07",
-      "jam": "17:00",
-      "platform": [
-        "tiktok",
-        "instagram",
-        "facebook"
-      ],
-      "judul": "Judul di HP nyisa 1 kata di bawah?",
-      "format": "TechTip",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-07",
-      "jam": "18:00",
-      "platform": [
-        "youtube"
-      ],
-      "judul": "Pagi Hari Kamu Lebih Tinggi?! 📏",
-      "format": "RealFact",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-07",
-      "jam": "19:00",
-      "platform": [
-        "tiktok",
-        "instagram",
-        "facebook"
-      ],
-      "judul": "Tiap ketik 1 huruf, server lo dihajar request?",
-      "format": "TechTip",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-08",
-      "jam": "10:00",
-      "platform": [
-        "tiktok",
-        "instagram",
-        "facebook"
-      ],
-      "judul": "Keranjang belanja hilang pas halaman di-refresh?",
-      "format": "TechTip",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-08",
-      "jam": "10:00",
-      "platform": [
-        "youtube"
-      ],
-      "judul": "Kupu-kupu Nyicip Pakai Kaki?! 🦋",
-      "format": "RealFact",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-08",
-      "jam": "12:00",
-      "platform": [
-        "tiktok",
-        "instagram",
-        "facebook"
-      ],
-      "judul": "API error dikit, website lo langsung blank?",
-      "format": "TechTip",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-08",
-      "jam": "13:00",
-      "platform": [
-        "youtube"
-      ],
-      "judul": "Rumah Kayu Tropis Jadi dalam 60 Detik?! 🌴",
-      "format": "BuildHouse",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-08",
-      "jam": "16:00",
-      "platform": [
-        "youtube"
-      ],
-      "judul": "Senja di Mars Warnanya Biru?! 🔴",
-      "format": "RealFact",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-08",
-      "jam": "17:00",
-      "platform": [
-        "tiktok",
-        "instagram",
-        "facebook"
-      ],
-      "judul": "Debug array objek di console pusing bacanya?",
-      "format": "TechTip",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-08",
-      "jam": "18:00",
-      "platform": [
-        "youtube"
-      ],
-      "judul": "Penguin Kasih Hadiah Batu?! 🐧",
-      "format": "RealFact",
-      "status": "video siap",
-      "link": ""
-    },
-    {
-      "tanggal": "2026-11-08",
-      "jam": "19:00",
-      "platform": [
-        "tiktok",
-        "instagram",
-        "facebook"
-      ],
-      "judul": "Kartu pilihan paket berubah warna, masih pakai JS?",
-      "format": "TechTip",
-      "status": "video siap",
-      "link": ""
-    }
-  ],
-  "ide": [
-    {
-      "tanggal": "2026-11-09",
-      "platform": "YouTube",
-      "judul": "Bintang Laut Nggak Punya Otak?! ⭐",
-      "format": "RealFact",
-      "status": "naskah siap"
-    },
-    {
-      "tanggal": "2026-11-09",
-      "platform": "YouTube",
-      "judul": "Siput Punya Ribuan Gigi?! 🐌",
-      "format": "RealFact",
-      "status": "naskah siap"
-    },
-    {
-      "tanggal": "2026-11-09",
-      "platform": "YouTube",
-      "judul": "Keringat Kuda Nil Warna Merah?! 🦛",
-      "format": "RealFact",
-      "status": "naskah siap"
-    },
-    {
-      "tanggal": "2026-11-09",
-      "platform": "YouTube",
-      "judul": "Pohon Ini Lebih Tua dari Piramida?! 🌲",
-      "format": "RealFact",
-      "status": "naskah siap"
-    },
-    {
-      "tanggal": "2026-11-09",
-      "platform": "TikTok/IG/FB",
-      "judul": "Link website dishare ke WA nggak ada gambar? (meta OG)",
-      "format": "TechTip",
-      "status": "naskah siap"
-    },
-    {
-      "tanggal": "2026-11-09",
-      "platform": "TikTok/IG/FB",
-      "judul": "Animasi website bikin pusing? prefers-reduced-motion",
-      "format": "TechTip",
-      "status": "naskah siap"
-    },
-    {
-      "tanggal": "2026-11-09",
-      "platform": "TikTok/IG/FB",
-      "judul": "Form bisa dikirim kosong? Validasi bawaan HTML",
-      "format": "TechTip",
-      "status": "naskah siap"
-    },
-    {
-      "tanggal": "2026-11-09",
-      "platform": "TikTok/IG/FB",
-      "judul": "Masih pusing bikin div pas di tengah?",
-      "format": "TechTip",
-      "status": "naskah siap"
-    },
-    {
-      "tanggal": "2026-11-10",
-      "platform": "YouTube",
-      "judul": "Katak Minum Lewat Kulit?! 🐸",
-      "format": "RealFact",
-      "status": "naskah siap"
-    },
-    {
-      "tanggal": "2026-11-10",
-      "platform": "YouTube",
-      "judul": "Burung Ini Bisa Terbang Mundur?! 🐦",
-      "format": "RealFact",
-      "status": "naskah siap"
-    },
-    {
-      "tanggal": "2026-11-10",
-      "platform": "YouTube",
-      "judul": "Jantung Paus Biru Hampir 200 Kg?! 🐋",
-      "format": "RealFact",
-      "status": "naskah siap"
-    },
-    {
-      "tanggal": "2026-11-10",
-      "platform": "YouTube",
-      "judul": "Petir Lebih Panas dari Matahari?! ⚡",
-      "format": "RealFact",
-      "status": "naskah siap"
-    },
-    {
-      "tanggal": "2026-11-10",
-      "platform": "TikTok/IG/FB",
-      "judul": "CSS berantakan? Nesting native tanpa Sass",
-      "format": "TechTip",
-      "status": "naskah siap"
-    },
-    {
-      "tanggal": "2026-11-10",
-      "platform": "TikTok/IG/FB",
-      "judul": "Komponen rusak di sidebar? Container queries",
-      "format": "TechTip",
-      "status": "naskah siap"
-    },
-    {
-      "tanggal": "2026-11-10",
-      "platform": "TikTok/IG/FB",
-      "judul": "Garis biru jelek pas klik? :focus-visible",
-      "format": "TechTip",
-      "status": "naskah siap"
-    },
-    {
-      "tanggal": "2026-11-10",
-      "platform": "TikTok/IG/FB",
-      "judul": "Atur jarak item pakai gap, bukan margin",
-      "format": "TechTip",
-      "status": "naskah siap"
-    },
-    {
-      "tanggal": "2026-11-12",
-      "platform": "YouTube",
-      "judul": "Bangkit dari Nol: Ditolak Harvard 10 Kali, Sekarang...?! 💪 (Jack Ma, naskah 05-yt3b)",
-      "format": "RealFact",
-      "status": "ide"
-    },
-    {
-      "tanggal": "2026-11-11",
-      "platform": "YouTube",
-      "judul": "Hewan Lain yang Darahnya Biru?! 🦀 (lanjutan Gurita)",
-      "format": "RealFact",
-      "status": "ide"
-    },
-    {
-      "tanggal": "2026-11-11",
-      "platform": "TikTok/IG/FB",
-      "judul": "Website lo bikin pengunjung kabur? 3 baris CSS lagi (lanjutan reel 2,7rb views)",
-      "format": "TechTip",
-      "status": "ide"
-    },
-    {
-      "tanggal": "2026-11-12",
-      "platform": "TikTok/IG/FB",
-      "judul": "Keyboard HP salah bikin form ditinggal (lanjutan reel IG 1,1rb)",
-      "format": "TechTip",
-      "status": "ide"
-    }
-  ],
-  "performa": [
-    {
-      "tanggal": "2026-11-05",
-      "jam": "17:00",
-      "platform": "tiktok",
-      "judul": "Cegah pesanan dobel di form",
-      "format": "TechTip",
-      "views": 200,
-      "likes": 9,
-      "link": "https://www.tiktok.com/@sueng135/video/7704626616248306945"
-    },
-    {
-      "tanggal": "2026-11-05",
-      "jam": "17:00",
-      "platform": "instagram",
-      "judul": "Cegah pesanan dobel di form",
-      "format": "TechTip",
-      "views": 203,
-      "likes": 0,
-      "link": "https://www.instagram.com/reel/DfWxtXUFVWC/"
-    },
-    {
-      "tanggal": "2026-11-05",
-      "jam": "17:00",
-      "platform": "facebook",
-      "judul": "Cegah pesanan dobel di form",
-      "format": "TechTip",
-      "views": null,
-      "likes": null,
-      "link": "https://facebook.com/reel/1900732468033148"
-    },
-    {
-      "tanggal": "2026-11-05",
-      "jam": "13:00",
-      "platform": "youtube",
-      "judul": "Lumba-lumba Tidur Setengah Otak?! 🐬",
-      "format": "RealFact",
-      "views": null,
-      "likes": null,
-      "link": "https://www.youtube.com/shorts/R3UA_OtHM2k"
-    },
-    {
-      "tanggal": "2026-11-05",
-      "jam": "12:00",
-      "platform": "tiktok",
-      "judul": "Keyboard HP yang pas buat form",
-      "format": "TechTip",
-      "views": 275,
-      "likes": 11,
-      "link": "https://www.tiktok.com/@sueng135/video/7704548709324885268"
-    },
-    {
-      "tanggal": "2026-11-05",
-      "jam": "12:00",
-      "platform": "instagram",
-      "judul": "Keyboard HP yang pas buat form",
-      "format": "TechTip",
-      "views": 1150,
-      "likes": 30,
-      "link": "https://www.instagram.com/reel/DfWPGNmDS62/"
-    },
-    {
-      "tanggal": "2026-11-05",
-      "jam": "12:00",
-      "platform": "facebook",
-      "judul": "Keyboard HP yang pas buat form",
-      "format": "TechTip",
-      "views": null,
-      "likes": null,
-      "link": "https://facebook.com/reel/1635772914089582"
-    },
-    {
-      "tanggal": "2026-11-04",
-      "jam": "19:00",
-      "platform": "tiktok",
-      "judul": "Video nggak gepeng pakai aspect-ratio",
-      "format": "TechTip",
-      "views": 230,
-      "likes": 13,
-      "link": "https://www.tiktok.com/@sueng135/video/7704286067846909191"
-    },
-    {
-      "tanggal": "2026-11-04",
-      "jam": "19:00",
-      "platform": "instagram",
-      "judul": "Video nggak gepeng pakai aspect-ratio",
-      "format": "TechTip",
-      "views": 261,
-      "likes": 6,
-      "link": "https://www.instagram.com/reel/DfUaekfgVkP/"
-    },
-    {
-      "tanggal": "2026-11-04",
-      "jam": "19:00",
-      "platform": "facebook",
-      "judul": "Video nggak gepeng pakai aspect-ratio",
-      "format": "TechTip",
-      "views": null,
-      "likes": null,
-      "link": "https://facebook.com/reel/1658582885846194"
-    },
-    {
-      "tanggal": "2026-11-04",
-      "jam": "18:00",
-      "platform": "youtube",
-      "judul": "Jantung Udang Ada di Kepala?! 🦐",
-      "format": "DuckFact",
-      "views": null,
-      "likes": null,
-      "link": "https://www.youtube.com/shorts/bAY-UNtDpnk"
-    },
-    {
-      "tanggal": "2026-11-04",
-      "jam": "17:00",
-      "platform": "tiktok",
-      "judul": "Navbar sticky tanpa JavaScript",
-      "format": "TechTip",
-      "views": 206,
-      "likes": 15,
-      "link": "https://www.tiktok.com/@sueng135/video/7704255253490830599"
-    },
-    {
-      "tanggal": "2026-11-04",
-      "jam": "17:00",
-      "platform": "instagram",
-      "judul": "Navbar sticky tanpa JavaScript",
-      "format": "TechTip",
-      "views": 1146,
-      "likes": 40,
-      "link": "https://www.instagram.com/reel/DfUMyctDCGx/"
-    },
-    {
-      "tanggal": "2026-11-04",
-      "jam": "17:00",
-      "platform": "facebook",
-      "judul": "Navbar sticky tanpa JavaScript",
-      "format": "TechTip",
-      "views": null,
-      "likes": null,
-      "link": "https://facebook.com/reel/1663323192240760"
-    },
-    {
-      "tanggal": "2026-11-04",
-      "jam": "16:00",
-      "platform": "youtube",
-      "judul": "Gajah Nggak Bisa Lompat?! 🐘",
-      "format": "RealFact",
-      "views": null,
-      "likes": null,
-      "link": "https://www.youtube.com/shorts/pdhzMLRsm1k"
-    },
-    {
-      "tanggal": "2026-11-04",
-      "jam": "13:00",
-      "platform": "youtube",
-      "judul": "1 Hari Lebih Lama dari 1 Tahun?! 🪐",
-      "format": "DuckFact",
-      "views": null,
-      "likes": null,
-      "link": "https://www.youtube.com/shorts/XtjlsFrioPk"
-    },
-    {
-      "tanggal": "2026-11-04",
-      "jam": "12:00",
-      "platform": "tiktok",
-      "judul": "Cara gua bikin catat uang lewat WhatsApp",
-      "format": "WebShowcase",
-      "views": 249,
-      "likes": 14,
-      "link": "https://www.tiktok.com/@sueng135/video/7704177382135057672"
-    },
-    {
-      "tanggal": "2026-11-04",
-      "jam": "12:00",
-      "platform": "instagram",
-      "judul": "Cara gua bikin catat uang lewat WhatsApp",
-      "format": "WebShowcase",
-      "views": 348,
-      "likes": 8,
-      "link": "https://www.instagram.com/reel/DfTqODqiuNY/"
-    },
-    {
-      "tanggal": "2026-11-04",
-      "jam": "12:00",
-      "platform": "facebook",
-      "judul": "Cara gua bikin catat uang lewat WhatsApp",
-      "format": "WebShowcase",
-      "views": null,
-      "likes": null,
-      "link": "https://facebook.com/reel/28298405199834230"
-    },
-    {
-      "tanggal": "2026-11-04",
-      "jam": "10:00",
-      "platform": "youtube",
-      "judul": "Burung Hantu Bisa Muter Kepala 270°?! 🦉",
-      "format": "RealFact",
-      "views": null,
-      "likes": null,
-      "link": "https://www.youtube.com/shorts/rSUcvvS8QsM"
-    },
-    {
-      "tanggal": "2026-11-04",
-      "jam": "10:00",
-      "platform": "tiktok",
-      "judul": "Teks gradient bergerak pakai CSS",
-      "format": "TechTip",
-      "views": 320,
-      "likes": 21,
-      "link": "https://www.tiktok.com/@sueng135/video/7704146726612897044"
-    },
-    {
-      "tanggal": "2026-11-04",
-      "jam": "10:00",
-      "platform": "instagram",
-      "judul": "Teks gradient bergerak pakai CSS",
-      "format": "TechTip",
-      "views": 1403,
-      "likes": 40,
-      "link": "https://www.instagram.com/reel/DfTcmIDjjnI/"
-    },
-    {
-      "tanggal": "2026-11-04",
-      "jam": "10:00",
-      "platform": "facebook",
-      "judul": "Teks gradient bergerak pakai CSS",
-      "format": "TechTip",
-      "views": null,
-      "likes": null,
-      "link": "https://facebook.com/reel/1126277070099330"
-    },
-    {
-      "tanggal": "2026-11-03",
-      "jam": "22:15",
-      "platform": "tiktok",
-      "judul": "Dark mode otomatis cuma 5 baris CSS",
-      "format": "TechTip",
-      "views": 271,
-      "likes": 18,
-      "link": "https://www.tiktok.com/@sueng135/video/7703964590148816148"
-    },
-    {
-      "tanggal": "2026-11-03",
-      "jam": "22:15",
-      "platform": "instagram",
-      "judul": "Dark mode otomatis cuma 5 baris CSS",
-      "format": "TechTip",
-      "views": 1776,
-      "likes": 71,
-      "link": "https://www.instagram.com/reel/DfSLsvDiZ8m/"
-    },
-    {
-      "tanggal": "2026-11-03",
-      "jam": "22:15",
-      "platform": "facebook",
-      "judul": "Dark mode otomatis cuma 5 baris CSS",
-      "format": "TechTip",
-      "views": null,
-      "likes": null,
-      "link": "https://facebook.com/reel/1085667007646158"
-    },
-    {
-      "tanggal": "2026-11-03",
-      "jam": "10:00",
-      "platform": "youtube",
-      "judul": "Hiu Lebih Tua dari Pohon?! 🦈",
-      "format": "DuckFact",
-      "views": null,
-      "likes": null,
-      "link": "https://www.youtube.com/shorts/PbHFLxLpm1g"
-    },
-    {
-      "tanggal": "2026-11-02",
-      "jam": "13:00",
-      "platform": "youtube",
-      "judul": "Flamingo Lahirnya Nggak Pink?! 🦩",
-      "format": "DuckFact",
-      "views": 279,
-      "likes": 12,
-      "link": "https://www.youtube.com/shorts/IqIEhjpW1c4"
-    },
-    {
-      "tanggal": "2026-11-02",
-      "jam": "12:00",
-      "platform": "tiktok",
-      "judul": "Website lo lemot gara-gara gambar?",
-      "format": "TechTip",
-      "views": 327,
-      "likes": 16,
-      "link": "https://www.tiktok.com/@sueng135/video/7703434166083407110"
-    },
-    {
-      "tanggal": "2026-11-02",
-      "jam": "12:00",
-      "platform": "instagram",
-      "judul": "Website lo lemot gara-gara gambar?",
-      "format": "TechTip",
-      "views": 1791,
-      "likes": 62,
-      "link": "https://www.instagram.com/reel/DfOgoasCZDt/"
-    },
-    {
-      "tanggal": "2026-11-02",
-      "jam": "12:00",
-      "platform": "facebook",
-      "judul": "Website lo lemot gara-gara gambar?",
-      "format": "TechTip",
-      "views": null,
-      "likes": null,
-      "link": "https://facebook.com/reel/1992979644732000"
-    },
-    {
-      "tanggal": "2026-11-02",
-      "jam": "10:00",
-      "platform": "youtube",
-      "judul": "Pisang Itu Buah Beri, Stroberi Bukan! 🍌🍓",
-      "format": "DuckFact",
-      "views": 1136,
-      "likes": 8,
-      "link": "https://www.youtube.com/shorts/k4OxgWOrPeI"
-    },
-    {
-      "tanggal": "2026-11-01",
-      "jam": "19:00",
-      "platform": "tiktok",
-      "judul": "Format Rupiah otomatis tanpa library",
-      "format": "TechTip",
-      "views": 309,
-      "likes": 15,
-      "link": "https://www.tiktok.com/@sueng135/video/7703172611655748870"
-    },
-    {
-      "tanggal": "2026-11-01",
-      "jam": "19:00",
-      "platform": "instagram",
-      "judul": "Format Rupiah otomatis tanpa library",
-      "format": "TechTip",
-      "views": 627,
-      "likes": 19,
-      "link": "https://www.instagram.com/reel/DfMsAeYl98f/"
-    },
-    {
-      "tanggal": "2026-11-01",
-      "jam": "19:00",
-      "platform": "facebook",
-      "judul": "Format Rupiah otomatis tanpa library",
-      "format": "TechTip",
-      "views": null,
-      "likes": null,
-      "link": "https://facebook.com/reel/30224373123818335"
-    },
-    {
-      "tanggal": "2026-11-01",
-      "jam": "17:00",
-      "platform": "tiktok",
-      "judul": "2 CSS modern yang jarang orang pakai",
-      "format": "TechTip",
-      "views": 258,
-      "likes": 11,
-      "link": "https://www.tiktok.com/@sueng135/video/7703141779092147464"
-    },
-    {
-      "tanggal": "2026-11-01",
-      "jam": "17:00",
-      "platform": "instagram",
-      "judul": "2 CSS modern yang jarang orang pakai",
-      "format": "TechTip",
-      "views": 1369,
-      "likes": 48,
-      "link": "https://www.instagram.com/reel/DfMeUCIiV8y/"
-    },
-    {
-      "tanggal": "2026-11-01",
-      "jam": "17:00",
-      "platform": "facebook",
-      "judul": "2 CSS modern yang jarang orang pakai",
-      "format": "TechTip",
-      "views": null,
-      "likes": null,
-      "link": "https://facebook.com/reel/1678735513850793"
-    },
-    {
-      "tanggal": "2026-11-01",
-      "jam": "13:00",
-      "platform": "youtube",
-      "judul": "Matahari Bisa Muat 1 Juta Bumi?! ☀️",
-      "format": "DuckFact",
-      "views": 1166,
-      "likes": 11,
-      "link": "https://www.youtube.com/shorts/EVTydpV4oXA"
-    },
-    {
-      "tanggal": "2026-11-01",
-      "jam": "12:00",
-      "platform": "tiktok",
-      "judul": "Bikin tombol copy cuma 1 baris JavaScript",
-      "format": "TechTip",
-      "views": 244,
-      "likes": 12,
-      "link": "https://www.tiktok.com/@sueng135/video/7703064385459064084"
-    },
-    {
-      "tanggal": "2026-11-01",
-      "jam": "12:00",
-      "platform": "instagram",
-      "judul": "Bikin tombol copy cuma 1 baris JavaScript",
-      "format": "TechTip",
-      "views": 415,
-      "likes": 6,
-      "link": "https://www.instagram.com/reel/DfL79jCEUgD/"
-    },
-    {
-      "tanggal": "2026-11-01",
-      "jam": "12:00",
-      "platform": "facebook",
-      "judul": "Bikin tombol copy cuma 1 baris JavaScript",
-      "format": "TechTip",
-      "views": null,
-      "likes": null,
-      "link": "https://facebook.com/reel/1921049722205120"
-    },
-    {
-      "tanggal": "2026-11-01",
-      "jam": "10:00",
-      "platform": "youtube",
-      "judul": "Bebek Tidur Sambil Melek?! 🦆",
-      "format": "DuckFact",
-      "views": 1138,
-      "likes": 9,
-      "link": "https://www.youtube.com/shorts/gV6CgoMd2n8"
-    },
-    {
-      "tanggal": "2026-10-31",
-      "jam": "10:00",
-      "platform": "youtube",
-      "judul": "Bangun Rumah Atap Biru dari 0 dalam 1 Menit! 🏠",
-      "format": "BuildHouse",
-      "views": 1067,
-      "likes": 13,
-      "link": "https://www.youtube.com/shorts/6GRYj6rqSFU"
-    },
-    {
-      "tanggal": "2026-10-31",
-      "jam": "10:00",
-      "platform": "tiktok",
-      "judul": "3 baris CSS biar website naik kelas",
-      "format": "TechTip",
-      "views": 388,
-      "likes": 33,
-      "link": "https://www.tiktok.com/@sueng135/video/7702662072382868754"
-    },
-    {
-      "tanggal": "2026-10-31",
-      "jam": "10:00",
-      "platform": "instagram",
-      "judul": "3 baris CSS biar website naik kelas",
-      "format": "TechTip",
-      "views": 2756,
-      "likes": 150,
-      "link": "https://www.instagram.com/reel/DfJJSf0DfJJ/"
-    },
-    {
-      "tanggal": "2026-10-31",
-      "jam": "10:00",
-      "platform": "facebook",
-      "judul": "3 baris CSS biar website naik kelas",
-      "format": "TechTip",
-      "views": null,
-      "likes": null,
-      "link": "https://facebook.com/reel/1588451286298979"
-    },
-    {
-      "tanggal": "2026-10-31",
-      "jam": "08:00",
-      "platform": "youtube",
-      "judul": "Makanan yang Nggak Pernah Basi 🍯",
-      "format": "DuckFact",
-      "views": 1240,
-      "likes": 9,
-      "link": "https://www.youtube.com/shorts/WipuNpGG5ew"
-    },
-    {
-      "tanggal": "2026-10-31",
-      "jam": "08:00",
-      "platform": "tiktok",
-      "judul": "3 trik biar website lo nggak ngebosenin",
-      "format": "TechTip",
-      "views": 416,
-      "likes": 23,
-      "link": "https://www.tiktok.com/@sueng135/video/7702631491766865173"
-    },
-    {
-      "tanggal": "2026-10-31",
-      "jam": "08:00",
-      "platform": "instagram",
-      "judul": "3 trik biar website lo nggak ngebosenin",
-      "format": "TechTip",
-      "views": 2008,
-      "likes": 61,
-      "link": "https://www.instagram.com/reel/DfI7sDSChcT/"
-    },
-    {
-      "tanggal": "2026-10-31",
-      "jam": "08:00",
-      "platform": "facebook",
-      "judul": "3 trik biar website lo nggak ngebosenin",
-      "format": "TechTip",
-      "views": null,
-      "likes": null,
-      "link": "https://facebook.com/reel/4622837517984455"
-    },
-    {
-      "tanggal": "2026-10-31",
-      "jam": "07:20",
-      "platform": "youtube",
-      "judul": "Leher Jerapah Cuma 7 Tulang?! 🦒",
-      "format": "DuckFact",
-      "views": 1251,
-      "likes": 12,
-      "link": "https://www.youtube.com/shorts/Wgj8r_CiRPs"
-    },
-    {
-      "tanggal": "2026-10-31",
-      "jam": "07:20",
-      "platform": "tiktok",
-      "judul": "Teks website kegedean di HP? Pakai clamp()",
-      "format": "TechTip",
-      "views": 329,
-      "likes": 21,
-      "link": "https://www.tiktok.com/@sueng135/video/7702620630415346951"
-    },
-    {
-      "tanggal": "2026-10-31",
-      "jam": "07:20",
-      "platform": "instagram",
-      "judul": "Teks website kegedean di HP? Pakai clamp()",
-      "format": "TechTip",
-      "views": 1792,
-      "likes": 51,
-      "link": "https://www.instagram.com/reel/DfI24APm63n/"
-    },
-    {
-      "tanggal": "2026-10-31",
-      "jam": "07:20",
-      "platform": "facebook",
-      "judul": "Teks website kegedean di HP? Pakai clamp()",
-      "format": "TechTip",
-      "views": null,
-      "likes": null,
-      "link": "https://facebook.com/reel/3615548851928938"
-    },
-    {
-      "tanggal": "2026-10-30",
-      "jam": "08:00",
-      "platform": "youtube",
-      "judul": "Gurita Punya 3 Jantung dan Darah Biru?! 🐙",
-      "format": "DuckFact",
-      "views": 1397,
-      "likes": 15,
-      "link": "https://www.youtube.com/shorts/O_gBJ3DnenI"
-    },
-    {
-      "tanggal": "2026-10-30",
-      "jam": "08:00",
-      "platform": "tiktok",
-      "judul": "Catat Uang AI: catat pengeluaran lewat WhatsApp",
-      "format": "WebShowcase",
-      "views": 270,
-      "likes": 10,
-      "link": "https://www.tiktok.com/@sueng135/video/7702259910930681140"
-    },
-    {
-      "tanggal": "2026-10-30",
-      "jam": "08:00",
-      "platform": "instagram",
-      "judul": "Catat Uang AI: catat pengeluaran lewat WhatsApp",
-      "format": "WebShowcase",
-      "views": 358,
-      "likes": 9,
-      "link": "https://www.instagram.com/reel/DfGW5cCkjda/"
-    },
-    {
-      "tanggal": "2026-10-30",
-      "jam": "08:00",
-      "platform": "facebook",
-      "judul": "Catat Uang AI: catat pengeluaran lewat WhatsApp",
-      "format": "WebShowcase",
-      "views": null,
-      "likes": null,
-      "link": "https://facebook.com/reel/1768185717747431"
-    }
-  ],
-  "perintah_selesai": [
-    {
-      "perintah": "Buat 5 ide konten teknologi baru (#1)",
-      "hasil": "5 ide TechTip/WebShowcase masuk daftar ide 6-8 Nov",
-      "tanggal": "2026-11-03"
-    }
-  ],
-  "tim": {
-    "riset": {
-      "catatan": "5 ide tech baru: details, dialog, form, localStorage",
-      "waktu": "2026-11-03T17:25:00+07:00"
-    },
-    "penulis": {
-      "catatan": "Nulis 8 naskah slot jam 10 (30 Okt – 2 Nov)",
-      "waktu": "2026-10-30T20:50:00+07:00"
-    },
-    "penilaiNaskah": {
-      "catatan": "Cek fakta jerapah, Matahari, flamingo: lolos",
-      "waktu": "2026-10-30T20:50:00+07:00"
-    },
-    "render": {
-      "catatan": "Render 4 Nov 21:01 jalan tapi tidak ada mp4 baru",
-      "waktu": "2026-11-04T21:01:00+07:00"
-    },
-    "penilaiVideo": {
-      "catatan": "06-yt BuildHouse tidak layak (rata2 5,75)",
-      "waktu": "2026-11-06T06:25:00+07:00"
-    },
-    "posting": {
-      "catatan": "6 Nov 0/8 slot; 5 Nov 19:00 ERROR limit Metricool",
-      "waktu": "2026-11-06T06:26:00+07:00"
-    },
-    "laporan": {
-      "catatan": "Update web 12:25: angka TT/IG naik, jadwal 6-8 kosong",
-      "waktu": "2026-11-06T12:25:00+07:00"
-    }
+ "diperbarui": "2026-11-06T13:25:00+07:00",
+ "catatan": "6 Nov siang: masih 0 post terjadwal 6-8 Nov (laptop belum render, folder naskah tidak terhubung ke sesi), angka TT/IG tetap, tidak ada perintah baru.",
+ "jadwal": [
+  {
+   "tanggal": "2026-11-06",
+   "jam": "10:00",
+   "platform": [
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "judul": "Grid kartu lo berantakan di HP?",
+   "format": "TechTip",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-06",
+   "jam": "10:00",
+   "platform": [
+    "youtube"
+   ],
+   "judul": "Bangun Rumah dari 0 Sampai Jadi dalam 1 Menit! 🏠 (tidak layak, perlu naskah baru)",
+   "format": "BuildHouse",
+   "status": "gagal",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-06",
+   "jam": "12:00",
+   "platform": [
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "judul": "Bikin FAQ buka-tutup masih pakai JavaScript?",
+   "format": "TechTip",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-06",
+   "jam": "13:00",
+   "platform": [
+    "youtube"
+   ],
+   "judul": "Sidik Jari Koala Mirip Manusia?! 🐨",
+   "format": "RealFact",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-06",
+   "jam": "16:00",
+   "platform": [
+    "youtube"
+   ],
+   "judul": "Saturnus Bisa Ngapung di Air?! 🪐",
+   "format": "RealFact",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-06",
+   "jam": "17:00",
+   "platform": [
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "judul": "Popup website lo nggak bisa ditutup pakai Esc?",
+   "format": "TechTip",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-06",
+   "jam": "18:00",
+   "platform": [
+    "youtube"
+   ],
+   "judul": "Bayi Punya Tulang Lebih Banyak?! 👶",
+   "format": "RealFact",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-06",
+   "jam": "19:00",
+   "platform": [
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "judul": "Catat Uang AI: foto struk langsung tercatat",
+   "format": "WebShowcase",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-07",
+   "jam": "10:00",
+   "platform": [
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "judul": "Bikin slider geser masih install library?",
+   "format": "TechTip",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-07",
+   "jam": "10:00",
+   "platform": [
+    "youtube"
+   ],
+   "judul": "Berang-berang Tidur Pegangan Tangan?! 🦦",
+   "format": "RealFact",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-07",
+   "jam": "12:00",
+   "platform": [
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "judul": "Card website lo kelihatan datar dan murahan?",
+   "format": "TechTip",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-07",
+   "jam": "13:00",
+   "platform": [
+    "youtube"
+   ],
+   "judul": "Semut Napas Tanpa Paru-paru?! 🐜",
+   "format": "RealFact",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-07",
+   "jam": "16:00",
+   "platform": [
+    "youtube"
+   ],
+   "judul": "Jupiter Muat 1.000 Bumi Lebih?! 🪐",
+   "format": "RealFact",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-07",
+   "jam": "17:00",
+   "platform": [
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "judul": "Judul di HP nyisa 1 kata di bawah?",
+   "format": "TechTip",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-07",
+   "jam": "18:00",
+   "platform": [
+    "youtube"
+   ],
+   "judul": "Pagi Hari Kamu Lebih Tinggi?! 📏",
+   "format": "RealFact",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-07",
+   "jam": "19:00",
+   "platform": [
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "judul": "Tiap ketik 1 huruf, server lo dihajar request?",
+   "format": "TechTip",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-08",
+   "jam": "10:00",
+   "platform": [
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "judul": "Keranjang belanja hilang pas halaman di-refresh?",
+   "format": "TechTip",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-08",
+   "jam": "10:00",
+   "platform": [
+    "youtube"
+   ],
+   "judul": "Kupu-kupu Nyicip Pakai Kaki?! 🦋",
+   "format": "RealFact",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-08",
+   "jam": "12:00",
+   "platform": [
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "judul": "API error dikit, website lo langsung blank?",
+   "format": "TechTip",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-08",
+   "jam": "13:00",
+   "platform": [
+    "youtube"
+   ],
+   "judul": "Rumah Kayu Tropis Jadi dalam 60 Detik?! 🌴",
+   "format": "BuildHouse",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-08",
+   "jam": "16:00",
+   "platform": [
+    "youtube"
+   ],
+   "judul": "Senja di Mars Warnanya Biru?! 🔴",
+   "format": "RealFact",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-08",
+   "jam": "17:00",
+   "platform": [
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "judul": "Debug array objek di console pusing bacanya?",
+   "format": "TechTip",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-08",
+   "jam": "18:00",
+   "platform": [
+    "youtube"
+   ],
+   "judul": "Penguin Kasih Hadiah Batu?! 🐧",
+   "format": "RealFact",
+   "status": "video siap",
+   "link": ""
+  },
+  {
+   "tanggal": "2026-11-08",
+   "jam": "19:00",
+   "platform": [
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "judul": "Kartu pilihan paket berubah warna, masih pakai JS?",
+   "format": "TechTip",
+   "status": "video siap",
+   "link": ""
   }
+ ],
+ "ide": [
+  {
+   "tanggal": "2026-11-09",
+   "platform": "YouTube",
+   "judul": "Bintang Laut Nggak Punya Otak?! ⭐",
+   "format": "RealFact",
+   "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-09",
+   "platform": "YouTube",
+   "judul": "Siput Punya Ribuan Gigi?! 🐌",
+   "format": "RealFact",
+   "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-09",
+   "platform": "YouTube",
+   "judul": "Keringat Kuda Nil Warna Merah?! 🦛",
+   "format": "RealFact",
+   "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-09",
+   "platform": "YouTube",
+   "judul": "Pohon Ini Lebih Tua dari Piramida?! 🌲",
+   "format": "RealFact",
+   "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-09",
+   "platform": "TikTok/IG/FB",
+   "judul": "Link website dishare ke WA nggak ada gambar? (meta OG)",
+   "format": "TechTip",
+   "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-09",
+   "platform": "TikTok/IG/FB",
+   "judul": "Animasi website bikin pusing? prefers-reduced-motion",
+   "format": "TechTip",
+   "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-09",
+   "platform": "TikTok/IG/FB",
+   "judul": "Form bisa dikirim kosong? Validasi bawaan HTML",
+   "format": "TechTip",
+   "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-09",
+   "platform": "TikTok/IG/FB",
+   "judul": "Masih pusing bikin div pas di tengah?",
+   "format": "TechTip",
+   "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-10",
+   "platform": "YouTube",
+   "judul": "Katak Minum Lewat Kulit?! 🐸",
+   "format": "RealFact",
+   "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-10",
+   "platform": "YouTube",
+   "judul": "Burung Ini Bisa Terbang Mundur?! 🐦",
+   "format": "RealFact",
+   "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-10",
+   "platform": "YouTube",
+   "judul": "Jantung Paus Biru Hampir 200 Kg?! 🐋",
+   "format": "RealFact",
+   "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-10",
+   "platform": "YouTube",
+   "judul": "Petir Lebih Panas dari Matahari?! ⚡",
+   "format": "RealFact",
+   "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-10",
+   "platform": "TikTok/IG/FB",
+   "judul": "CSS berantakan? Nesting native tanpa Sass",
+   "format": "TechTip",
+   "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-10",
+   "platform": "TikTok/IG/FB",
+   "judul": "Komponen rusak di sidebar? Container queries",
+   "format": "TechTip",
+   "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-10",
+   "platform": "TikTok/IG/FB",
+   "judul": "Garis biru jelek pas klik? :focus-visible",
+   "format": "TechTip",
+   "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-10",
+   "platform": "TikTok/IG/FB",
+   "judul": "Atur jarak item pakai gap, bukan margin",
+   "format": "TechTip",
+   "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-13",
+   "platform": "YouTube",
+   "judul": "Neptunus super dingin + beruang kutub + awan 500 ton (3 RealFact) & rumah tropis putih (BuildHouse)",
+   "format": "RealFact",
+   "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-13",
+   "platform": "TikTok/IG/FB",
+   "judul": "TechTip aspect-ratio, popover, Intl Rupiah + WebShowcase Catat Uang AI",
+   "format": "TechTip",
+   "status": "naskah siap"
+  },
+  {
+   "tanggal": "2026-11-11",
+   "platform": "YouTube",
+   "judul": "USULAN FORMAT BARU: Mitos atau Fakta? 3 detik (tebak lalu bongkar)",
+   "format": "lainnya",
+   "status": "ide"
+  },
+  {
+   "tanggal": "2026-11-12",
+   "platform": "TikTok/IG/FB",
+   "judul": "USULAN FORMAT BARU: Bedah Website 15 detik (before/after)",
+   "format": "lainnya",
+   "status": "ide"
+  }
+ ],
+ "performa": [
+  {
+   "tanggal": "2026-11-05",
+   "jam": "17:00",
+   "platform": "tiktok",
+   "judul": "Cegah pesanan dobel di form",
+   "format": "TechTip",
+   "views": 200,
+   "likes": 9,
+   "link": "https://www.tiktok.com/@sueng135/video/7704626616248306945"
+  },
+  {
+   "tanggal": "2026-11-05",
+   "jam": "17:00",
+   "platform": "instagram",
+   "judul": "Cegah pesanan dobel di form",
+   "format": "TechTip",
+   "views": 203,
+   "likes": 0,
+   "link": "https://www.instagram.com/reel/DfWxtXUFVWC/"
+  },
+  {
+   "tanggal": "2026-11-05",
+   "jam": "17:00",
+   "platform": "facebook",
+   "judul": "Cegah pesanan dobel di form",
+   "format": "TechTip",
+   "views": null,
+   "likes": null,
+   "link": "https://facebook.com/reel/1900732468033148"
+  },
+  {
+   "tanggal": "2026-11-05",
+   "jam": "13:00",
+   "platform": "youtube",
+   "judul": "Lumba-lumba Tidur Setengah Otak?! 🐬",
+   "format": "RealFact",
+   "views": null,
+   "likes": null,
+   "link": "https://www.youtube.com/shorts/R3UA_OtHM2k"
+  },
+  {
+   "tanggal": "2026-11-05",
+   "jam": "12:00",
+   "platform": "tiktok",
+   "judul": "Keyboard HP yang pas buat form",
+   "format": "TechTip",
+   "views": 275,
+   "likes": 11,
+   "link": "https://www.tiktok.com/@sueng135/video/7704548709324885268"
+  },
+  {
+   "tanggal": "2026-11-05",
+   "jam": "12:00",
+   "platform": "instagram",
+   "judul": "Keyboard HP yang pas buat form",
+   "format": "TechTip",
+   "views": 1150,
+   "likes": 30,
+   "link": "https://www.instagram.com/reel/DfWPGNmDS62/"
+  },
+  {
+   "tanggal": "2026-11-05",
+   "jam": "12:00",
+   "platform": "facebook",
+   "judul": "Keyboard HP yang pas buat form",
+   "format": "TechTip",
+   "views": null,
+   "likes": null,
+   "link": "https://facebook.com/reel/1635772914089582"
+  },
+  {
+   "tanggal": "2026-11-04",
+   "jam": "19:00",
+   "platform": "tiktok",
+   "judul": "Video nggak gepeng pakai aspect-ratio",
+   "format": "TechTip",
+   "views": 230,
+   "likes": 13,
+   "link": "https://www.tiktok.com/@sueng135/video/7704286067846909191"
+  },
+  {
+   "tanggal": "2026-11-04",
+   "jam": "19:00",
+   "platform": "instagram",
+   "judul": "Video nggak gepeng pakai aspect-ratio",
+   "format": "TechTip",
+   "views": 261,
+   "likes": 6,
+   "link": "https://www.instagram.com/reel/DfUaekfgVkP/"
+  },
+  {
+   "tanggal": "2026-11-04",
+   "jam": "19:00",
+   "platform": "facebook",
+   "judul": "Video nggak gepeng pakai aspect-ratio",
+   "format": "TechTip",
+   "views": null,
+   "likes": null,
+   "link": "https://facebook.com/reel/1658582885846194"
+  },
+  {
+   "tanggal": "2026-11-04",
+   "jam": "18:00",
+   "platform": "youtube",
+   "judul": "Jantung Udang Ada di Kepala?! 🦐",
+   "format": "DuckFact",
+   "views": null,
+   "likes": null,
+   "link": "https://www.youtube.com/shorts/bAY-UNtDpnk"
+  },
+  {
+   "tanggal": "2026-11-04",
+   "jam": "17:00",
+   "platform": "tiktok",
+   "judul": "Navbar sticky tanpa JavaScript",
+   "format": "TechTip",
+   "views": 206,
+   "likes": 15,
+   "link": "https://www.tiktok.com/@sueng135/video/7704255253490830599"
+  },
+  {
+   "tanggal": "2026-11-04",
+   "jam": "17:00",
+   "platform": "instagram",
+   "judul": "Navbar sticky tanpa JavaScript",
+   "format": "TechTip",
+   "views": 1146,
+   "likes": 40,
+   "link": "https://www.instagram.com/reel/DfUMyctDCGx/"
+  },
+  {
+   "tanggal": "2026-11-04",
+   "jam": "17:00",
+   "platform": "facebook",
+   "judul": "Navbar sticky tanpa JavaScript",
+   "format": "TechTip",
+   "views": null,
+   "likes": null,
+   "link": "https://facebook.com/reel/1663323192240760"
+  },
+  {
+   "tanggal": "2026-11-04",
+   "jam": "16:00",
+   "platform": "youtube",
+   "judul": "Gajah Nggak Bisa Lompat?! 🐘",
+   "format": "RealFact",
+   "views": null,
+   "likes": null,
+   "link": "https://www.youtube.com/shorts/pdhzMLRsm1k"
+  },
+  {
+   "tanggal": "2026-11-04",
+   "jam": "13:00",
+   "platform": "youtube",
+   "judul": "1 Hari Lebih Lama dari 1 Tahun?! 🪐",
+   "format": "DuckFact",
+   "views": null,
+   "likes": null,
+   "link": "https://www.youtube.com/shorts/XtjlsFrioPk"
+  },
+  {
+   "tanggal": "2026-11-04",
+   "jam": "12:00",
+   "platform": "tiktok",
+   "judul": "Cara gua bikin catat uang lewat WhatsApp",
+   "format": "WebShowcase",
+   "views": 249,
+   "likes": 14,
+   "link": "https://www.tiktok.com/@sueng135/video/7704177382135057672"
+  },
+  {
+   "tanggal": "2026-11-04",
+   "jam": "12:00",
+   "platform": "instagram",
+   "judul": "Cara gua bikin catat uang lewat WhatsApp",
+   "format": "WebShowcase",
+   "views": 348,
+   "likes": 8,
+   "link": "https://www.instagram.com/reel/DfTqODqiuNY/"
+  },
+  {
+   "tanggal": "2026-11-04",
+   "jam": "12:00",
+   "platform": "facebook",
+   "judul": "Cara gua bikin catat uang lewat WhatsApp",
+   "format": "WebShowcase",
+   "views": null,
+   "likes": null,
+   "link": "https://facebook.com/reel/28298405199834230"
+  },
+  {
+   "tanggal": "2026-11-04",
+   "jam": "10:00",
+   "platform": "youtube",
+   "judul": "Burung Hantu Bisa Muter Kepala 270°?! 🦉",
+   "format": "RealFact",
+   "views": null,
+   "likes": null,
+   "link": "https://www.youtube.com/shorts/rSUcvvS8QsM"
+  },
+  {
+   "tanggal": "2026-11-04",
+   "jam": "10:00",
+   "platform": "tiktok",
+   "judul": "Teks gradient bergerak pakai CSS",
+   "format": "TechTip",
+   "views": 320,
+   "likes": 21,
+   "link": "https://www.tiktok.com/@sueng135/video/7704146726612897044"
+  },
+  {
+   "tanggal": "2026-11-04",
+   "jam": "10:00",
+   "platform": "instagram",
+   "judul": "Teks gradient bergerak pakai CSS",
+   "format": "TechTip",
+   "views": 1403,
+   "likes": 40,
+   "link": "https://www.instagram.com/reel/DfTcmIDjjnI/"
+  },
+  {
+   "tanggal": "2026-11-04",
+   "jam": "10:00",
+   "platform": "facebook",
+   "judul": "Teks gradient bergerak pakai CSS",
+   "format": "TechTip",
+   "views": null,
+   "likes": null,
+   "link": "https://facebook.com/reel/1126277070099330"
+  },
+  {
+   "tanggal": "2026-11-03",
+   "jam": "22:15",
+   "platform": "tiktok",
+   "judul": "Dark mode otomatis cuma 5 baris CSS",
+   "format": "TechTip",
+   "views": 271,
+   "likes": 18,
+   "link": "https://www.tiktok.com/@sueng135/video/7703964590148816148"
+  },
+  {
+   "tanggal": "2026-11-03",
+   "jam": "22:15",
+   "platform": "instagram",
+   "judul": "Dark mode otomatis cuma 5 baris CSS",
+   "format": "TechTip",
+   "views": 1776,
+   "likes": 71,
+   "link": "https://www.instagram.com/reel/DfSLsvDiZ8m/"
+  },
+  {
+   "tanggal": "2026-11-03",
+   "jam": "22:15",
+   "platform": "facebook",
+   "judul": "Dark mode otomatis cuma 5 baris CSS",
+   "format": "TechTip",
+   "views": null,
+   "likes": null,
+   "link": "https://facebook.com/reel/1085667007646158"
+  },
+  {
+   "tanggal": "2026-11-03",
+   "jam": "10:00",
+   "platform": "youtube",
+   "judul": "Hiu Lebih Tua dari Pohon?! 🦈",
+   "format": "DuckFact",
+   "views": null,
+   "likes": null,
+   "link": "https://www.youtube.com/shorts/PbHFLxLpm1g"
+  },
+  {
+   "tanggal": "2026-11-02",
+   "jam": "13:00",
+   "platform": "youtube",
+   "judul": "Flamingo Lahirnya Nggak Pink?! 🦩",
+   "format": "DuckFact",
+   "views": 279,
+   "likes": 12,
+   "link": "https://www.youtube.com/shorts/IqIEhjpW1c4"
+  },
+  {
+   "tanggal": "2026-11-02",
+   "jam": "12:00",
+   "platform": "tiktok",
+   "judul": "Website lo lemot gara-gara gambar?",
+   "format": "TechTip",
+   "views": 327,
+   "likes": 16,
+   "link": "https://www.tiktok.com/@sueng135/video/7703434166083407110"
+  },
+  {
+   "tanggal": "2026-11-02",
+   "jam": "12:00",
+   "platform": "instagram",
+   "judul": "Website lo lemot gara-gara gambar?",
+   "format": "TechTip",
+   "views": 1791,
+   "likes": 62,
+   "link": "https://www.instagram.com/reel/DfOgoasCZDt/"
+  },
+  {
+   "tanggal": "2026-11-02",
+   "jam": "12:00",
+   "platform": "facebook",
+   "judul": "Website lo lemot gara-gara gambar?",
+   "format": "TechTip",
+   "views": null,
+   "likes": null,
+   "link": "https://facebook.com/reel/1992979644732000"
+  },
+  {
+   "tanggal": "2026-11-02",
+   "jam": "10:00",
+   "platform": "youtube",
+   "judul": "Pisang Itu Buah Beri, Stroberi Bukan! 🍌🍓",
+   "format": "DuckFact",
+   "views": 1136,
+   "likes": 8,
+   "link": "https://www.youtube.com/shorts/k4OxgWOrPeI"
+  },
+  {
+   "tanggal": "2026-11-01",
+   "jam": "19:00",
+   "platform": "tiktok",
+   "judul": "Format Rupiah otomatis tanpa library",
+   "format": "TechTip",
+   "views": 309,
+   "likes": 15,
+   "link": "https://www.tiktok.com/@sueng135/video/7703172611655748870"
+  },
+  {
+   "tanggal": "2026-11-01",
+   "jam": "19:00",
+   "platform": "instagram",
+   "judul": "Format Rupiah otomatis tanpa library",
+   "format": "TechTip",
+   "views": 627,
+   "likes": 19,
+   "link": "https://www.instagram.com/reel/DfMsAeYl98f/"
+  },
+  {
+   "tanggal": "2026-11-01",
+   "jam": "19:00",
+   "platform": "facebook",
+   "judul": "Format Rupiah otomatis tanpa library",
+   "format": "TechTip",
+   "views": null,
+   "likes": null,
+   "link": "https://facebook.com/reel/30224373123818335"
+  },
+  {
+   "tanggal": "2026-11-01",
+   "jam": "17:00",
+   "platform": "tiktok",
+   "judul": "2 CSS modern yang jarang orang pakai",
+   "format": "TechTip",
+   "views": 258,
+   "likes": 11,
+   "link": "https://www.tiktok.com/@sueng135/video/7703141779092147464"
+  },
+  {
+   "tanggal": "2026-11-01",
+   "jam": "17:00",
+   "platform": "instagram",
+   "judul": "2 CSS modern yang jarang orang pakai",
+   "format": "TechTip",
+   "views": 1369,
+   "likes": 48,
+   "link": "https://www.instagram.com/reel/DfMeUCIiV8y/"
+  },
+  {
+   "tanggal": "2026-11-01",
+   "jam": "17:00",
+   "platform": "facebook",
+   "judul": "2 CSS modern yang jarang orang pakai",
+   "format": "TechTip",
+   "views": null,
+   "likes": null,
+   "link": "https://facebook.com/reel/1678735513850793"
+  },
+  {
+   "tanggal": "2026-11-01",
+   "jam": "13:00",
+   "platform": "youtube",
+   "judul": "Matahari Bisa Muat 1 Juta Bumi?! ☀️",
+   "format": "DuckFact",
+   "views": 1166,
+   "likes": 11,
+   "link": "https://www.youtube.com/shorts/EVTydpV4oXA"
+  },
+  {
+   "tanggal": "2026-11-01",
+   "jam": "12:00",
+   "platform": "tiktok",
+   "judul": "Bikin tombol copy cuma 1 baris JavaScript",
+   "format": "TechTip",
+   "views": 244,
+   "likes": 12,
+   "link": "https://www.tiktok.com/@sueng135/video/7703064385459064084"
+  },
+  {
+   "tanggal": "2026-11-01",
+   "jam": "12:00",
+   "platform": "instagram",
+   "judul": "Bikin tombol copy cuma 1 baris JavaScript",
+   "format": "TechTip",
+   "views": 415,
+   "likes": 6,
+   "link": "https://www.instagram.com/reel/DfL79jCEUgD/"
+  },
+  {
+   "tanggal": "2026-11-01",
+   "jam": "12:00",
+   "platform": "facebook",
+   "judul": "Bikin tombol copy cuma 1 baris JavaScript",
+   "format": "TechTip",
+   "views": null,
+   "likes": null,
+   "link": "https://facebook.com/reel/1921049722205120"
+  },
+  {
+   "tanggal": "2026-11-01",
+   "jam": "10:00",
+   "platform": "youtube",
+   "judul": "Bebek Tidur Sambil Melek?! 🦆",
+   "format": "DuckFact",
+   "views": 1138,
+   "likes": 9,
+   "link": "https://www.youtube.com/shorts/gV6CgoMd2n8"
+  },
+  {
+   "tanggal": "2026-10-31",
+   "jam": "10:00",
+   "platform": "youtube",
+   "judul": "Bangun Rumah Atap Biru dari 0 dalam 1 Menit! 🏠",
+   "format": "BuildHouse",
+   "views": 1067,
+   "likes": 13,
+   "link": "https://www.youtube.com/shorts/6GRYj6rqSFU"
+  },
+  {
+   "tanggal": "2026-10-31",
+   "jam": "10:00",
+   "platform": "tiktok",
+   "judul": "3 baris CSS biar website naik kelas",
+   "format": "TechTip",
+   "views": 388,
+   "likes": 33,
+   "link": "https://www.tiktok.com/@sueng135/video/7702662072382868754"
+  },
+  {
+   "tanggal": "2026-10-31",
+   "jam": "10:00",
+   "platform": "instagram",
+   "judul": "3 baris CSS biar website naik kelas",
+   "format": "TechTip",
+   "views": 2756,
+   "likes": 150,
+   "link": "https://www.instagram.com/reel/DfJJSf0DfJJ/"
+  },
+  {
+   "tanggal": "2026-10-31",
+   "jam": "10:00",
+   "platform": "facebook",
+   "judul": "3 baris CSS biar website naik kelas",
+   "format": "TechTip",
+   "views": null,
+   "likes": null,
+   "link": "https://facebook.com/reel/1588451286298979"
+  },
+  {
+   "tanggal": "2026-10-31",
+   "jam": "08:00",
+   "platform": "youtube",
+   "judul": "Makanan yang Nggak Pernah Basi 🍯",
+   "format": "DuckFact",
+   "views": 1240,
+   "likes": 9,
+   "link": "https://www.youtube.com/shorts/WipuNpGG5ew"
+  },
+  {
+   "tanggal": "2026-10-31",
+   "jam": "08:00",
+   "platform": "tiktok",
+   "judul": "3 trik biar website lo nggak ngebosenin",
+   "format": "TechTip",
+   "views": 416,
+   "likes": 23,
+   "link": "https://www.tiktok.com/@sueng135/video/7702631491766865173"
+  },
+  {
+   "tanggal": "2026-10-31",
+   "jam": "08:00",
+   "platform": "instagram",
+   "judul": "3 trik biar website lo nggak ngebosenin",
+   "format": "TechTip",
+   "views": 2008,
+   "likes": 61,
+   "link": "https://www.instagram.com/reel/DfI7sDSChcT/"
+  },
+  {
+   "tanggal": "2026-10-31",
+   "jam": "08:00",
+   "platform": "facebook",
+   "judul": "3 trik biar website lo nggak ngebosenin",
+   "format": "TechTip",
+   "views": null,
+   "likes": null,
+   "link": "https://facebook.com/reel/4622837517984455"
+  },
+  {
+   "tanggal": "2026-10-31",
+   "jam": "07:20",
+   "platform": "youtube",
+   "judul": "Leher Jerapah Cuma 7 Tulang?! 🦒",
+   "format": "DuckFact",
+   "views": 1251,
+   "likes": 12,
+   "link": "https://www.youtube.com/shorts/Wgj8r_CiRPs"
+  },
+  {
+   "tanggal": "2026-10-31",
+   "jam": "07:20",
+   "platform": "tiktok",
+   "judul": "Teks website kegedean di HP? Pakai clamp()",
+   "format": "TechTip",
+   "views": 329,
+   "likes": 21,
+   "link": "https://www.tiktok.com/@sueng135/video/7702620630415346951"
+  },
+  {
+   "tanggal": "2026-10-31",
+   "jam": "07:20",
+   "platform": "instagram",
+   "judul": "Teks website kegedean di HP? Pakai clamp()",
+   "format": "TechTip",
+   "views": 1792,
+   "likes": 51,
+   "link": "https://www.instagram.com/reel/DfI24APm63n/"
+  },
+  {
+   "tanggal": "2026-10-31",
+   "jam": "07:20",
+   "platform": "facebook",
+   "judul": "Teks website kegedean di HP? Pakai clamp()",
+   "format": "TechTip",
+   "views": null,
+   "likes": null,
+   "link": "https://facebook.com/reel/3615548851928938"
+  },
+  {
+   "tanggal": "2026-10-30",
+   "jam": "08:00",
+   "platform": "youtube",
+   "judul": "Gurita Punya 3 Jantung dan Darah Biru?! 🐙",
+   "format": "DuckFact",
+   "views": 1397,
+   "likes": 15,
+   "link": "https://www.youtube.com/shorts/O_gBJ3DnenI"
+  },
+  {
+   "tanggal": "2026-10-30",
+   "jam": "08:00",
+   "platform": "tiktok",
+   "judul": "Catat Uang AI: catat pengeluaran lewat WhatsApp",
+   "format": "WebShowcase",
+   "views": 270,
+   "likes": 10,
+   "link": "https://www.tiktok.com/@sueng135/video/7702259910930681140"
+  },
+  {
+   "tanggal": "2026-10-30",
+   "jam": "08:00",
+   "platform": "instagram",
+   "judul": "Catat Uang AI: catat pengeluaran lewat WhatsApp",
+   "format": "WebShowcase",
+   "views": 358,
+   "likes": 9,
+   "link": "https://www.instagram.com/reel/DfGW5cCkjda/"
+  },
+  {
+   "tanggal": "2026-10-30",
+   "jam": "08:00",
+   "platform": "facebook",
+   "judul": "Catat Uang AI: catat pengeluaran lewat WhatsApp",
+   "format": "WebShowcase",
+   "views": null,
+   "likes": null,
+   "link": "https://facebook.com/reel/1768185717747431"
+  }
+ ],
+ "perintah_selesai": [
+  {
+   "perintah": "Buat 5 ide konten teknologi baru (#1)",
+   "hasil": "5 ide TechTip/WebShowcase masuk daftar ide 6-8 Nov",
+   "tanggal": "2026-11-03"
+  }
+ ],
+ "tim": {
+  "riset": {
+   "catatan": "Riset tren 13 Nov: 10 ide Shorts, 9 TechTip, 4 format baru",
+   "waktu": "2026-11-06T12:56:00+07:00"
+  },
+  "penulis": {
+   "catatan": "Tulis 8 naskah 13 Nov (7-12 Nov sudah terisi)",
+   "waktu": "2026-11-06T12:58:00+07:00"
+  },
+  "penilaiNaskah": {
+   "catatan": "8 naskah 13 Nov lolos, rata2 7,9 (3 direvisi)",
+   "waktu": "2026-11-06T13:00:00+07:00"
+  },
+  "render": {
+   "catatan": "Render 4 Nov 21:01 jalan tapi tidak ada mp4 baru",
+   "waktu": "2026-11-04T21:01:00+07:00"
+  },
+  "penilaiVideo": {
+   "catatan": "06-yt BuildHouse tidak layak (rata2 5,75)",
+   "waktu": "2026-11-06T06:25:00+07:00"
+  },
+  "posting": {
+   "catatan": "6 Nov 0/8 slot; 5 Nov 19:00 ERROR limit Metricool",
+   "waktu": "2026-11-06T06:26:00+07:00"
+  },
+  "laporan": {
+   "catatan": "Update web 13:25: 0 post 6-8 Nov, belum ada render baru",
+   "waktu": "2026-11-06T13:25:00+07:00"
+  }
+ }
 }
